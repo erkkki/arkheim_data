@@ -93,9 +93,9 @@ Making it easy to start simple calculators or anything.
 
 ### Todo
 
-- [ ] Units
+- [x] Units
     - [x] Dwarf
-    - [ ] Elf, unit cost missing.
+    - [x] Elf, unit cost missing.
 - [ ] Warlords
     - [ ] Dwarf
     - [x] Elf
