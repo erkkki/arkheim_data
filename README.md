@@ -13,8 +13,8 @@ Making it easy to start simple calculators or anything.
 ```js
 [{
     "name": String,
-    "race": String, // Dwarf / Elf
-    "type": String, // Infantry / Cavalry / Artillery
+    "race": String, // dwarf / elf
+    "type": String, // infantry / cavalry / artillery
     "fighting_strength": Int,
     "iniative": Int,
     "special_ability": {
@@ -30,13 +30,13 @@ Making it easy to start simple calculators or anything.
 ```js
 [{
     "name": String,
-    "race": String,  // Dwarf / Elf
+    "race": String,  // dwarf / elf
     "level_needed": Int,
     "premium": Boolean,
     "price": Int,
     "speed": Int,
     "morale": Int,
-    "slots": { // Type: Infantry / Cavalry / Artillery
+    "slots": { // Type: infantry / cavalry / artillery
       "slot_1": { "type": String, "capacity": Int },
       "slot_2": { "type": String, "capacity": Int },
       "slot_3": { "type": String, "capacity": Int }
@@ -49,7 +49,7 @@ Making it easy to start simple calculators or anything.
 ```js
 [{
     "name": String,
-    "race": String,  // Dwarf / Elf
+    "race": String,  // dwarf / elf
     "info": String,
     "unlock_level": Int,
     "effect": {
@@ -95,14 +95,14 @@ Making it easy to start simple calculators or anything.
 ### Todo
 
 - [x] Units
-    - [x] Dwarf
-    - [x] Elf, unit cost missing.
+    - [x] dwarf
+    - [x] elf, unit cost missing.
 - [ ] Warlords
-    - [ ] Dwarf
-    - [x] Elf
+    - [ ] dwarf
+    - [x] elf
 - [x] Masteries
-    - [x] Dwarf, Needs unlock_level values
-    - [x] Elf
+    - [x] dwarf, Needs unlock_level values
+    - [x] elf
 - [ ] Buildings
     - [ ] Resources
     - [ ] Infastructure
