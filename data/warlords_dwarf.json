@@ -1,0 +1,218 @@
+[
+  {
+    "name": "Staunchbraid",
+    "race": "Dwarf",
+    "level_needed": null,
+    "premium": false,
+    "price": null,
+    "speed": 48,
+    "morale": 50,
+    "slots": {
+      "slot_1": {
+        "type": "infantry",
+        "capacity": 400
+      },
+      "slot_2": {
+        "type": "infantry",
+        "capacity": 400
+      },
+      "slot_3": {
+        "type": "infantry",
+        "capacity": 300
+      }
+    },
+    "special_ability": "Decreases damage taken by your units by 25%"
+  },
+  {
+    "name": "Runehead",
+    "race": "Dwarf",
+    "level_needed": null,
+    "premium": true,
+    "price": null,
+    "speed": 46,
+    "morale": 35,
+    "slots": {
+      "slot_1": {
+        "type": "infantry",
+        "capacity": 700
+      },
+      "slot_2": {
+        "type": "infantry",
+        "capacity": 300
+      },
+      "slot_3": {
+        "type": "infantry",
+        "capacity": 300
+      }
+    },
+    "special_ability": "Increases XP gained by 60%"
+  },
+  {
+    "name": "Wetbeard",
+    "race": "Dwarf",
+    "level_needed": null,
+    "premium": false,
+    "price": null,
+    "speed": 32,
+    "morale": 55,
+    "slots": {
+      "slot_1": {
+        "type": "infantry",
+        "capacity": 400
+      },
+      "slot_2": {
+        "type": "infantry",
+        "capacity": 400
+      },
+      "slot_3": {
+        "type": "cavalry",
+        "capacity": 400
+      }
+    },
+    "special_ability": "50% change of dealing critical damage"
+  },
+  {
+    "name": "Lightsmith",
+    "race": "Dwarf",
+    "level_needed": null,
+    "premium": false,
+    "price": null,
+    "speed": 45,
+    "morale": 30,
+    "slots": {
+      "slot_1": {
+        "type": "infantry",
+        "capacity": 400
+      },
+      "slot_2": {
+        "type": "infantry",
+        "capacity": 800
+      },
+      "slot_3": {
+        "type": "cavalry",
+        "capacity": 250
+      }
+    },
+    "special_ability": "Increases Fighting Strength of army by 15%"
+  },
+  {
+    "name": "Redswirl",
+    "race": "Dwarf",
+    "level_needed": null,
+    "premium": true,
+    "price": null,
+    "speed": 34,
+    "morale": 60,
+    "slots": {
+      "slot_1": {
+        "type": "infantry",
+        "capacity": 500
+      },
+      "slot_2": {
+        "type": "cavalry",
+        "capacity": 325
+      },
+      "slot_3": {
+        "type": "cavalry",
+        "capacity": 325
+      }
+    },
+    "special_ability": "Increases Fighting Strength of army by 15%"
+  },
+  {
+    "name": "Stormseer",
+    "race": "Dwarf",
+    "level_needed": null,
+    "premium": false,
+    "price": null,
+    "speed": 44,
+    "morale": 40,
+    "slots": {
+      "slot_1": {
+        "type": "infantry",
+        "capacity": 600
+      },
+      "slot_2": {
+        "type": "cavalry",
+        "capacity": 275
+      },
+      "slot_3": {
+        "type": "infantry",
+        "capacity": 750
+      }
+    },
+    "special_ability": "Resurrects 35% of units after each round"
+  },
+  {
+    "name": "Arksnout",
+    "race": "Dwarf",
+    "level_needed": null,
+    "premium": true,
+    "price": null,
+    "speed": 30,
+    "morale": 70,
+    "slots": {
+      "slot_1": {
+        "type": "infantry",
+        "capacity": 725
+      },
+      "slot_2": {
+        "type": "infantry",
+        "capacity": 400
+      },
+      "slot_3": {
+        "type": "infantry",
+        "capacity": 750
+      }
+    },
+    "special_ability": "One poison stack per turn Each kills 2% of units"
+  },
+  {
+    "name": "Trankard",
+    "race": "Dwarf",
+    "level_needed": null,
+    "premium": false,
+    "price": null,
+    "speed": 38,
+    "morale": 50,
+    "slots": {
+      "slot_1": {
+        "type": "cavalry",
+        "capacity": 500
+      },
+      "slot_2": {
+        "type": "cavalry",
+        "capacity": 225
+      },
+      "slot_3": {
+        "type": "cavalry",
+        "capacity": 225
+      }
+    },
+    "special_ability": "Increases damage by 3% for each of up to 20 friendly Warlords in a battle"
+  },
+  {
+    "name": "Rubyheart",
+    "race": "Dwarf",
+    "level_needed": null,
+    "premium": false,
+    "price": null,
+    "speed": 36,
+    "morale": 40,
+    "slots": {
+      "slot_1": {
+        "type": "infantry",
+        "capacity": 1000
+      },
+      "slot_2": {
+        "type": "infantry",
+        "capacity": 600
+      },
+      "slot_3": {
+        "type": "infantry",
+        "capacity": 600
+      }
+    },
+    "special_ability": "Direct damage of 4% of current fighting Strength"
+  }
+]
