@@ -1,0 +1,26 @@
+[
+  {
+    "name": "",
+    "race": "Dwarf",
+    "speed": 1,
+    "morale": 1,
+    "slots": {
+      "slot_1": {
+        "type": "infantry",
+        "capacity": 1
+      },
+      "slot_2": {
+        "type": "infantry",
+        "capacity": 1
+      },
+      "slot_3": {
+        "type": "infantry",
+        "capacity": 1
+      }
+    },
+    "special_ability": {
+      "name": "+50% Fighting Strength vs Goblins",
+      "bonus": "+50%"
+    }
+  }
+]

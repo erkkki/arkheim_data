@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Iron Production",
+    "race": "Dwarf",
+    "info": "Increases the production of iron in your Town",
+    "effect": {
+      "value": 4,
+      "type": "percentage",
+      "levels": 5
+    }
+  },
+  {
+    "name": "Infantry Iniative",
+    "race": "Dwarf",
+    "info": "Increases the Iniative of your infantry",
+    "effect": {
+      "value": 1,
+      "type": "int",
+      "levels": 3
+    }
+  },
+  {
+    "name": "Crop Production",
+    "race": "Dwarf",
+    "info": "Increases the production of crop in your Town",
+    "effect": {
+      "value": 3,
+      "type": "percentage",
+      "levels": 5
+    }
+  },
+  {
+    "name": "Wood Production",
+    "race": "Dwarf",
+    "info": "Increases the production of wood in your Town",
+    "effect": {
+      "value": 3,
+      "type": "percentage",
+      "levels": 5
+    }
+  }
+]

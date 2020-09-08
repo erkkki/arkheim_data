@@ -1,6 +1,4 @@
-# arkheim_data
-Arkheim data in json
-
+# Arkheim data in json
 
 ## Units
 ```js
@@ -19,4 +17,37 @@ Arkheim data in json
     },
     "training_time": Int // Seconds
 }, ...] 
+```
+
+## Warlords
+```js
+[{
+    "name": String,
+    "race": String,  // Dwarf / Elf
+    "speed": Int,
+    "morale": Int,
+    "slots": { // Type: Infantry / Cavalry / Artillery
+      "slot_1": { "type": String, "capacity": Int },
+      "slot_2": { "type": String, "capacity": Int },
+      "slot_3": { "type": String, "capacity": Int }
+    },
+    "special_ability": {
+      "name": String, 
+      "bonus": ???
+    }
+}, ...]
+```
+
+## Masteries
+```js
+[{
+    "name": String,
+    "race": String,  // Dwarf / Elf
+    "info": String,
+    "effect": {
+      "value": Int,
+      "type": String,  // int / percentage
+      "levels": Int
+    }
+}, ...]
 ```
