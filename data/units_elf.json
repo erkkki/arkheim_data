@@ -2,7 +2,7 @@
   {
     "name": "Horned Whirlwind",
     "race": "elf",
-    "type": "Infantry",
+    "type": "infantry",
     "fighting_strength": 27,
     "iniative": 7,
     "special_ability": {
@@ -26,7 +26,7 @@
   {
     "name": "Petrifier",
     "race": "elf",
-    "type": "Infantry",
+    "type": "infantry",
     "fighting_strength": 44,
     "iniative": 10,
     "special_ability": {
@@ -50,7 +50,7 @@
   {
     "name": "Slaying Mantis",
     "race": "elf",
-    "type": "Infantry",
+    "type": "infantry",
     "fighting_strength": 66,
     "iniative": 8,
     "special_ability": {
@@ -74,7 +74,7 @@
   {
     "name": "Daggertooth",
     "race": "elf",
-    "type": "Cavalry",
+    "type": "cavalry",
     "fighting_strength": 66,
     "iniative": 15,
     "special_ability": {
@@ -96,7 +96,7 @@
   {
     "name": "BlackHunch",
     "race": "elf",
-    "type": "Cavalry",
+    "type": "cavalry",
     "fighting_strength": 88,
     "iniative": 11,
     "special_ability": {
@@ -120,7 +120,7 @@
   {
     "name": "Whisperer",
     "race": "elf",
-    "type": "Cavalry",
+    "type": "cavalry",
     "fighting_strength": 132,
     "iniative": 14,
     "special_ability": {
@@ -144,7 +144,7 @@
   {
     "name": "Suntrunk Charger",
     "race": "elf",
-    "type": "Cavalry",
+    "type": "cavalry",
     "fighting_strength": 198,
     "iniative": 12,
     "special_ability": {
@@ -168,7 +168,7 @@
   {
     "name": "Sailstinger",
     "race": "elf",
-    "type": "Artillery",
+    "type": "artillery",
     "fighting_strength": 165,
     "iniative": 16,
     "special_ability": {
@@ -192,7 +192,7 @@
   {
     "name": "Finbow",
     "race": "elf",
-    "type": "Artillery",
+    "type": "artillery",
     "fighting_strength": 330,
     "iniative": 23,
     "special_ability": {
@@ -216,7 +216,7 @@
   {
     "name": "Sky Piercer",
     "race": "elf",
-    "type": "Artillery",
+    "type": "artillery",
     "fighting_strength": 495,
     "iniative": 19,
     "special_ability": {
