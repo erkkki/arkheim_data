@@ -67,5 +67,26 @@
 }, ...]
 ```
 
+### Todo
+
+- [ ] Units
+    - [x] Dwarf
+    - [ ] Elf
+- [ ] Warlords
+    - [ ] Dwarf
+    - [ ] Elf
+- [ ] Masteries
+    - [ ] Dwarf
+    - [ ] Elf
+- [ ] Buildings
+    - [ ] Resources
+    - [ ] Dwarf
+        - [ ] Infastructure
+        - [ ] Military
+        - [ ] Resources
+    - [ ] Elf
+        - [ ] Infastructure
+        - [ ] Military
+        - [ ] Resources
 
 
