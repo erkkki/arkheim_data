@@ -76,6 +76,21 @@ Making it easy to start simple calculators or anything.
 }, ...]
 ```
 
+## Realm
+```js
+[{ 
+    "level": Int, 
+    "bonus": { 
+        "effect": String, 
+        "value": Int, 
+        "type": String // boost or percentage
+    }    
+}, ...]
+```
+
+
+
+
 ### Todo
 
 - [ ] Units
