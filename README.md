@@ -80,7 +80,7 @@ Making it easy to start simple calculators or anything.
 
 - [ ] Units
     - [x] Dwarf
-    - [ ] Elf
+    - [ ] Elf, unit cost missing.
 - [ ] Warlords
     - [ ] Dwarf
     - [ ] Elf
