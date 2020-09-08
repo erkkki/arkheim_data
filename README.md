@@ -60,8 +60,8 @@
       {
         "level": Int,
         "cost": { "wood": Int, "iron": Int, "crop": Int },
-        "build_time": 0,
-        "supply": 5,
+        "build_time": Int, // Seconds
+        "supply": Int,
         "bonus": { ??? }
       }, ...]      
 }, ...]
