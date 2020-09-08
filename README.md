@@ -17,6 +17,6 @@ Arkheim data in json
     "cost": {
       "wood": Int, "iron": Int, "crop": Int
     },
-    "training_time": Int // seconds
-}] 
+    "training_time": Int // Seconds
+}, ...] 
 ```
