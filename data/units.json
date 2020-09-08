@@ -1,57 +1,172 @@
 [
   {
     "name": "Iron Sentry",
-    "Race": "Dwarf",
-    "Type": "Infantry",
-    "Fighting Strength": 30,
-    "Iniative": 6,
-    "Special": {
+    "race": "Dwarf",
+    "type": "Infantry",
+    "fighting_strength": 30,
+    "iniative": 6,
+    "special_ability": {
       "name": "+50% Fighting Strength vs Goblins",
       "bonus": "+50%"
-    }
+    },
+    "cost": {
+      "wood": 60,
+      "iron": 100,
+      "crop": 100
+    },
+    "training_time": 70
   },
   {
     "name": "Valkyrian Berserker",
-    "Race": "Dwarf",
-    "Type": "Infantry",
-    "Fighting Strength": 35,
-    "Iniative": 10,
-    "Special": {
+    "race": "Dwarf",
+    "type": "Infantry",
+    "fighting_strength": 35,
+    "iniative": 10,
+    "special_ability": {
       "name": "+35% Fighting Strength when attacking",
       "bonus": "+35%"
-    }
+    },
+    "cost": {
+      "wood": 120,
+      "iron": 90,
+      "crop": 120
+    },
+    "training_time": 150
   },
   {
     "name": "Detonatress",
-    "Race": "Dwarf",
-    "Type": "Infantry",
-    "Fighting Strength": 45,
-    "Iniative": 18,
-    "Special": {
+    "race": "Dwarf",
+    "type": "Infantry",
+    "fighting_strength": 45,
+    "iniative": 18,
+    "special_ability": {
       "name": "+50% Fighting Strength vs cavalry",
       "bonus": "+50%"
-    }
+    },
+    "cost": {
+      "wood": 120,
+      "iron": 330,
+      "crop": 250
+    },
+    "training_time": 230
   },
   {
     "name": "Cratemaker",
-    "Race": "Dwarf",
-    "Type": "Infantry",
-    "Fighting Strength": 65,
-    "Iniative": 12,
-    "Special": {
+    "race": "Dwarf",
+    "type": "Infantry",
+    "fighting_strength": 65,
+    "iniative": 12,
+    "special_ability": {
       "name": "+35% damage against Elves",
       "bonus": "+35%"
-    }
+    },
+    "cost": {
+      "wood": 400,
+      "iron": 550,
+      "crop": 750
+    },
+    "training_time": 350
   },
   {
     "name": "Breathing Bastion",
-    "Race": "Dwarf",
-    "Type": "Infantry",
-    "Fighting Strength": 90,
-    "Iniative": 8,
-    "Special": {
+    "race": "Dwarf",
+    "type": "Infantry",
+    "fighting_strength": 90,
+    "iniative": 8,
+    "special_ability": {
       "name": "+50% Fighting Strength vs artillery",
       "bonus": "+50%"
-    }
+    },
+    "cost": {
+      "wood": 750,
+      "iron": 800,
+      "crop": 1300
+    },
+    "training_time": 450
+  },
+  {
+    "name": "Lightning Paw",
+    "race": "Dwarf",
+    "type": "Cavalry",
+    "fighting_strength": 80,
+    "iniative": 20,
+    "special_ability": {
+      "name": "+50% Fighting Strength vs cavalry",
+      "bonus": "+50%"
+    },
+    "cost": {
+      "wood": 100,
+      "iron": 300,
+      "crop": 300
+    },
+    "training_time": 300
+  },
+  {
+    "name": "Thunderjaw",
+    "race": "Dwarf",
+    "type": "Cavalry",
+    "fighting_strength": 140,
+    "iniative": 12,
+    "special_ability": {
+      "name": "+50% Fighting Strength vs infantry",
+      "bonus": "+50%"
+    },
+    "cost": {
+      "wood": 1280,
+      "iron": 860,
+      "crop": 1300
+    },
+    "training_time": 700
+  },
+  {
+    "name": "Rifleman",
+    "race": "Dwarf",
+    "type": "Artillery",
+    "fighting_strength": 200,
+    "iniative": 16,
+    "special_ability": {
+      "name": "+50% Fighting Strength vs artillery",
+      "bonus": "+50%"
+    },
+    "cost": {
+      "wood": 600,
+      "iron": 1000,
+      "crop": 600
+    },
+    "training_time": 1000
+  },
+  {
+    "name": "Mountain Crusher",
+    "race": "Dwarf",
+    "type": "Artillery",
+    "fighting_strength": 325,
+    "iniative": 25,
+    "special_ability": {
+      "name": "+35% damage against Dwarfes",
+      "bonus": "+35%"
+    },
+    "cost": {
+      "wood": 3250,
+      "iron": 3250,
+      "crop": 1750
+    },
+    "training_time": 1750
+  },
+  {
+    "name": "Supreme Equalizer",
+    "race": "Dwarf",
+    "type": "Artillery",
+    "fighting_strength": 450,
+    "iniative": 20,
+    "special_ability": {
+      "name": "+35% Fighting Strength when defending",
+      "bonus": "+35%"
+    },
+    "cost": {
+      "wood": 3250,
+      "iron": 7000,
+      "crop": 5500
+    },
+    "training_time": 2750
   }
 ]
