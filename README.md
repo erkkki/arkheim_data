@@ -112,5 +112,6 @@ Making it easy to start simple calculators or anything.
         - [ ] Infastructure
         - [ ] Military
         - [ ] Resources
+- [ ] Realm Bonuses
 
 
