@@ -31,9 +31,9 @@ Making it easy to start simple calculators or anything.
 [{
     "name": String,
     "race": String,  // Dwarf / Elf
-    "level_needed": 96,
-    "premium": false,
-    "price": 0,
+    "level_needed": Int,
+    "premium": Boolean,
+    "price": Int,
     "speed": Int,
     "morale": Int,
     "slots": { // Type: Infantry / Cavalry / Artillery
@@ -51,6 +51,7 @@ Making it easy to start simple calculators or anything.
     "name": String,
     "race": String,  // Dwarf / Elf
     "info": String,
+    "unlock_level": Int,
     "effect": {
       "value": Int,
       "type": String,  // int / percentage
