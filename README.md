@@ -1,5 +1,8 @@
 # Arkheim data in json
 
+Basic unit / warlord / mastery data from [arkheim](https://arkheim.com/) game. 
+
+
 ## Units
 ```js
 [{
