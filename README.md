@@ -12,9 +12,7 @@
       "name": String,
       "bonus": ???
     },
-    "cost": {
-      "wood": Int, "iron": Int, "crop": Int
-    },
+    "cost": { "wood": Int, "iron": Int, "crop": Int },
     "training_time": Int // Seconds
 }, ...] 
 ```
@@ -51,3 +49,23 @@
     }
 }, ...]
 ```
+
+## Buildings
+```js
+[{
+    "name": String,
+    "info": String,
+    "level_cap": Int,
+    "levels": [
+      {
+        "level": Int,
+        "cost": { "wood": Int, "iron": Int, "crop": Int },
+        "build_time": 0,
+        "supply": 5,
+        "bonus": { ??? }
+      }, ...]      
+}, ...]
+```
+
+
+
