@@ -2,6 +2,12 @@
 
 Basic unit / warlord / mastery data from [arkheim](https://arkheim.com/) game. 
 
+## Why?
+
+Easy to load / access to basic data for everyone.
+Most programming languages can easily convert json to array / object.
+
+Making it easy to start simple calculators or anything.
 
 ## Units
 ```js
