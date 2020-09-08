@@ -6,24 +6,409 @@
     "levels": [
       {
         "level": 1,
+        "build_time": 0,
         "cost": {
           "wood": 100,
           "iron": 25,
           "crop": 150
         },
-        "build_time": 0,
         "supply": 5,
         "bonus": {}
       },
       {
         "level": 2,
+        "build_time": null,
         "cost": {
           "wood": 160,
           "iron": 40,
           "crop": 240
         },
-        "build_time": 20,
         "supply": 10,
+        "bonus": {}
+      },
+      {
+        "level": 3,
+        "build_time": null,
+        "cost": {
+          "wood": 255,
+          "iron": 65,
+          "crop": 385
+        },
+        "supply": 16,
+        "bonus": {}
+      },
+      {
+        "level": 4,
+        "build_time": null,
+        "cost": {
+          "wood": 410,
+          "iron": 100,
+          "crop": 615
+        },
+        "supply": 22,
+        "bonus": {}
+      },
+      {
+        "level": 5,
+        "build_time": null,
+        "cost": {
+          "wood": 655,
+          "iron": 165,
+          "crop": 985
+        },
+        "supply": 30,
+        "bonus": {}
+      },
+      {
+        "level": 6,
+        "build_time": null,
+        "cost": {
+          "wood": 1050,
+          "iron": 260,
+          "crop": 1575
+        },
+        "supply": 40,
+        "bonus": {}
+      },
+      {
+        "level": 7,
+        "build_time": null,
+        "cost": {
+          "wood": 1680,
+          "iron": 420,
+          "crop": 2515
+        },
+        "supply": 50,
+        "bonus": {}
+      },
+      {
+        "level": 8,
+        "build_time": null,
+        "cost": {
+          "wood": 2685,
+          "iron": 670,
+          "crop": 4025
+        },
+        "supply": 60,
+        "bonus": {}
+      },
+      {
+        "level": 9,
+        "build_time": null,
+        "cost": {
+          "wood": 4295,
+          "iron": 1075,
+          "crop": 6440
+        },
+        "supply": 70,
+        "bonus": {}
+      },
+      {
+        "level": 10,
+        "build_time": null,
+        "cost": {
+          "wood": 6870,
+          "iron": 1720,
+          "crop": 10310
+        },
+        "supply": 85,
+        "bonus": {}
+      },
+      {
+        "level": 11,
+        "build_time": null,
+        "cost": {
+          "wood": 10995,
+          "iron": 2750,
+          "crop": 16495
+        },
+        "supply": 100,
+        "bonus": {}
+      },
+      {
+        "level": 12,
+        "build_time": null,
+        "cost": {
+          "wood": 17590,
+          "iron": 4400,
+          "crop": 26390
+        },
+        "supply": 115,
+        "bonus": {}
+      },
+      {
+        "level": 13,
+        "build_time": null,
+        "cost": {
+          "wood": 28145,
+          "iron": 7035,
+          "crop": 42220
+        },
+        "supply": 130,
+        "bonus": {}
+      },
+      {
+        "level": 14,
+        "build_time": null,
+        "cost": {
+          "wood": 45035,
+          "iron": 11260,
+          "crop": 67555
+        },
+        "supply": 150,
+        "bonus": {}
+      },
+      {
+        "level": 15,
+        "build_time": null,
+        "cost": {
+          "wood": 72060,
+          "iron": 18015,
+          "crop": 108085
+        },
+        "supply": 170,
+        "bonus": {}
+      },
+      {
+        "level": 16,
+        "build_time": null,
+        "cost": {
+          "wood": 115290,
+          "iron": 28825,
+          "crop": 172940
+        },
+        "supply": 190,
+        "bonus": {}
+      },
+      {
+        "level": 17,
+        "build_time": null,
+        "cost": {
+          "wood": 184465,
+          "iron": 46115,
+          "crop": 276700
+        },
+        "supply": 215,
+        "bonus": {}
+      },
+      {
+        "level": 18,
+        "build_time": null,
+        "cost": {
+          "wood": 295150,
+          "iron": 73758,
+          "crop": 442720
+        },
+        "supply": 240,
+        "bonus": {}
+      },
+      {
+        "level": 19,
+        "build_time": null,
+        "cost": {
+          "wood": 472235,
+          "iron": 118060,
+          "crop": 708355
+        },
+        "supply": 270,
+        "bonus": {}
+      },
+      {
+        "level": 20,
+        "build_time": null,
+        "cost": {
+          "wood": 755580,
+          "iron": 188895,
+          "crop": 1133370
+        },
+        "supply": 300,
+        "bonus": "+5% population"
+      }
+    ]
+  },
+  {
+    "name": "Storage",
+    "info": "The further you upgrade the Storage, the more resources it can hols.",
+    "level_cap": 20,
+    "levels": [
+      {
+        "level": 1,
+        "build_time": 0,
+        "cost": {
+          "wood": 100,
+          "iron": 25,
+          "crop": 150
+        },
+        "bonus": {}
+      }
+    ]
+  },
+  {
+    "name": "Academy",
+    "info": "The further you upgrade the Academy, the higher the amount of XP you gain from all battles excluding in the dungeon.",
+    "level_cap": 25,
+    "levels": [
+      {
+        "level": 1,
+        "build_time": 0,
+        "cost": {
+          "wood": 100,
+          "iron": 25,
+          "crop": 150
+        },
+        "bonus": {}
+      }
+    ]
+  },
+  {
+    "name": "Market",
+    "info": "The further you upgrade the Market, the more resources you gain on top of your resource income from your Supplies.",
+    "level_cap": 25,
+    "levels": [
+      {
+        "level": 1,
+        "build_time": 0,
+        "cost": {
+          "wood": 100,
+          "iron": 25,
+          "crop": 150
+        },
+        "bonus": {}
+      }
+    ]
+  },
+  {
+    "name": "Soul Forge",
+    "info": "The Soul Forge generates Soul Energy and allows you to convert it into other arcane perks.",
+    "level_cap": 25,
+    "levels": [
+      {
+        "level": 1,
+        "build_time": 0,
+        "cost": {
+          "wood": 100,
+          "iron": 25,
+          "crop": 150
+        },
+        "bonus": {}
+      }
+    ]
+  },
+  {
+    "name": "Citadel",
+    "info": "The further you upgrade the Citadel, the faster other buildings will be constructed.",
+    "level_cap": 25,
+    "levels": [
+      {
+        "level": 1,
+        "build_time": 0,
+        "cost": {
+          "wood": 100,
+          "iron": 25,
+          "crop": 150
+        },
+        "bonus": {}
+      }
+    ]
+  },
+  {
+    "name": "Barracks",
+    "info": "The further you upgrade the Barracks, the faster your infantry is ready for battle.",
+    "level_cap": 25,
+    "levels": [
+      {
+        "level": 1,
+        "build_time": 0,
+        "cost": {
+          "wood": 100,
+          "iron": 25,
+          "crop": 150
+        },
+        "bonus": {}
+      }
+    ]
+  },
+  {
+    "name": "Stable",
+    "info": "The further you upgrade the Stable, the faster your cavalry is ready for battle.",
+    "level_cap": 25,
+    "levels": [
+      {
+        "level": 1,
+        "build_time": 0,
+        "cost": {
+          "wood": 100,
+          "iron": 25,
+          "crop": 150
+        },
+        "bonus": {}
+      }
+    ]
+  },
+  {
+    "name": "Armory",
+    "info": "The further you upgrade the Armory, the faster your artillery is ready for battle.",
+    "level_cap": 25,
+    "levels": [
+      {
+        "level": 1,
+        "build_time": 0,
+        "cost": {
+          "wood": 100,
+          "iron": 25,
+          "crop": 150
+        },
+        "bonus": {}
+      }
+    ]
+  },
+  {
+    "name": "Sawmill",
+    "info": "The further you upgrade the Sawmill, the more wood you gain on top of your resource field production.",
+    "level_cap": 25,
+    "levels": [
+      {
+        "level": 1,
+        "build_time": 0,
+        "cost": {
+          "wood": 100,
+          "iron": 25,
+          "crop": 150
+        },
+        "bonus": {}
+      }
+    ]
+  },
+  {
+    "name": "Foundry",
+    "info": "The further you upgrade the Foundry, the more iron you gain on top of your resource field production.",
+    "level_cap": 25,
+    "levels": [
+      {
+        "level": 1,
+        "build_time": 0,
+        "cost": {
+          "wood": 100,
+          "iron": 25,
+          "crop": 150
+        },
+        "bonus": {}
+      }
+    ]
+  },
+  {
+    "name": "Mill",
+    "info": "The further you upgrade the Mill, the more wood you crop on top of your resource field production.",
+    "level_cap": 25,
+    "levels": [
+      {
+        "level": 1,
+        "build_time": 0,
+        "cost": {
+          "wood": 100,
+          "iron": 25,
+          "crop": 150
+        },
         "bonus": {}
       }
     ]

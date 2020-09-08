@@ -69,8 +69,8 @@ Making it easy to start simple calculators or anything.
     "levels": [
       {
         "level": Int,
-        "cost": { "wood": Int, "iron": Int, "crop": Int },
         "build_time": Int, // Seconds
+        "cost": { "wood": Int, "iron": Int, "crop": Int },
         "supply": Int,
         "bonus": { ??? }
       }, ...]      
