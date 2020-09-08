@@ -1,0 +1,172 @@
+[
+  {
+    "name": "Horned Whirlwind",
+    "race": "Elf",
+    "type": "Infantry",
+    "fighting_strength": 27,
+    "iniative": 7,
+    "special_ability": {
+      "name": "+50% Fighting Strength vs Goblins",
+      "bonus": "+50%"
+    },
+    "cost": {
+      "wood": 60,
+      "iron": 100,
+      "crop": 100
+    },
+    "training_time": 60
+  },
+  {
+    "name": "Petrifier",
+    "race": "Elf",
+    "type": "Infantry",
+    "fighting_strength": 44,
+    "iniative": 10,
+    "special_ability": {
+      "name": "+50% Fighting Strength vs infantry",
+      "bonus": "+50%"
+    },
+    "cost": {
+      "wood": 200,
+      "iron": 150,
+      "crop": 200
+    },
+    "training_time": 200
+  },
+  {
+    "name": "Slaying Mantis",
+    "race": "Elf",
+    "type": "Infantry",
+    "fighting_strength": 66,
+    "iniative": 8,
+    "special_ability": {
+      "name": "+50% Fighting Strength vs cavalry",
+      "bonus": "+50%"
+    },
+    "cost": {
+      "wood": 300,
+      "iron": 380,
+      "crop": 500
+    },
+    "training_time": 330
+  },
+  {
+    "name": "Daggertooth",
+    "race": "Elf",
+    "type": "Cavalry",
+    "fighting_strength": 66,
+    "iniative": 15,
+    "special_ability": {
+      "name": "+35% Fighting Strength when attacking",
+      "bonus": "+35%"
+    },
+    "cost": {
+      "wood": null,
+      "iron": null,
+      "crop": null
+    },
+    "training_time": 200
+  },
+  {
+    "name": "BlackHunch",
+    "race": "Elf",
+    "type": "Cavalry",
+    "fighting_strength": 88,
+    "iniative": 11,
+    "special_ability": {
+      "name": "+50% Fighting Strength vs infantry",
+      "bonus": "+50%"
+    },
+    "cost": {
+      "wood": null,
+      "iron": null,
+      "crop": null
+    },
+    "training_time": 320
+  },
+  {
+    "name": "Whisperer",
+    "race": "Elf",
+    "type": "Cavalry",
+    "fighting_strength": 132,
+    "iniative": 14,
+    "special_ability": {
+      "name": "+35% Damage against Dwarves",
+      "bonus": "+35%"
+    },
+    "cost": {
+      "wood": null,
+      "iron": null,
+      "crop": null
+    },
+    "training_time": 700
+  },
+  {
+    "name": "Suntrunk Charger",
+    "race": "Elf",
+    "type": "Cavalry",
+    "fighting_strength": 198,
+    "iniative": 12,
+    "special_ability": {
+      "name": "+50% Fighting Strength vs artillery",
+      "bonus": "+50%"
+    },
+    "cost": {
+      "wood": null,
+      "iron": null,
+      "crop": null
+    },
+    "training_time": 1000
+  },
+  {
+    "name": "Sailstinger",
+    "race": "Elf",
+    "type": "Artillery",
+    "fighting_strength": 165,
+    "iniative": 16,
+    "special_ability": {
+      "name": "+50% Fighting Strength vs cavalry",
+      "bonus": "+50%"
+    },
+    "cost": {
+      "wood": null,
+      "iron": null,
+      "crop": null
+    },
+    "training_time": 800
+  },
+  {
+    "name": "Finbow",
+    "race": "Elf",
+    "type": "Artillery",
+    "fighting_strength": 330,
+    "iniative": 23,
+    "special_ability": {
+      "name": "+35% Fighting Strength against Elves",
+      "bonus": "+35%"
+    },
+    "cost": {
+      "wood": null,
+      "iron": null,
+      "crop": null
+    },
+    "training_time": 1625
+  },
+  {
+    "name": "Sky Piercer",
+    "race": "Elf",
+    "type": "Artillery",
+    "fighting_strength": 495,
+    "iniative": 19,
+    "special_ability": {
+      "name": "+35% Fighting Strength when defending",
+      "bonus": "+35%"
+    },
+    "cost": {
+      "wood": null,
+      "iron": null,
+      "crop": null
+    },
+    "training_time": 2500
+  }
+]
