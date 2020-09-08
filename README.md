@@ -3,11 +3,11 @@ Arkheim data in json
 
 
 ## Units
-```json
+```js
 [{
     "name": String,
-    "race": String, ( Dwarf / Elf )
-    "type": String, ( Infantry / Cavalry / Artillery )
+    "race": String, // Dwarf / Elf
+    "type": String, // Infantry / Cavalry / Artillery
     "fighting_strength": Int,
     "iniative": Int,
     "special_ability": {
@@ -17,6 +17,6 @@ Arkheim data in json
     "cost": {
       "wood": Int, "iron": Int, "crop": Int
     },
-    "training_time": Int ( seconds )
+    "training_time": Int // seconds
 }] 
 ```
