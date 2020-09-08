@@ -1,0 +1,57 @@
+[
+  {
+    "name": "Iron Sentry",
+    "Race": "Dwarf",
+    "Type": "Infantry",
+    "Fighting Strength": 30,
+    "Iniative": 6,
+    "Special": {
+      "name": "+50% Fighting Strength vs Goblins",
+      "bonus": "+50%"
+    }
+  },
+  {
+    "name": "Valkyrian Berserker",
+    "Race": "Dwarf",
+    "Type": "Infantry",
+    "Fighting Strength": 35,
+    "Iniative": 10,
+    "Special": {
+      "name": "+35% Fighting Strength when attacking",
+      "bonus": "+35%"
+    }
+  },
+  {
+    "name": "Detonatress",
+    "Race": "Dwarf",
+    "Type": "Infantry",
+    "Fighting Strength": 45,
+    "Iniative": 18,
+    "Special": {
+      "name": "+50% Fighting Strength vs cavalry",
+      "bonus": "+50%"
+    }
+  },
+  {
+    "name": "Cratemaker",
+    "Race": "Dwarf",
+    "Type": "Infantry",
+    "Fighting Strength": 65,
+    "Iniative": 12,
+    "Special": {
+      "name": "+35% damage against Elves",
+      "bonus": "+35%"
+    }
+  },
+  {
+    "name": "Breathing Bastion",
+    "Race": "Dwarf",
+    "Type": "Infantry",
+    "Fighting Strength": 90,
+    "Iniative": 8,
+    "Special": {
+      "name": "+50% Fighting Strength vs artillery",
+      "bonus": "+50%"
+    }
+  }
+]
