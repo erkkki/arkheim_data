@@ -99,19 +99,15 @@ Making it easy to start simple calculators or anything.
 - [ ] Warlords
     - [ ] Dwarf
     - [x] Elf
-- [ ] Masteries
-    - [ ] Dwarf
-    - [ ] Elf
+- [x] Masteries
+    - [x] Dwarf, Needs unlock_level values
+    - [x] Elf
 - [ ] Buildings
     - [ ] Resources
-    - [ ] Dwarf
-        - [ ] Infastructure
-        - [ ] Military
-        - [ ] Resources
-    - [ ] Elf
-        - [ ] Infastructure
-        - [ ] Military
-        - [ ] Resources
+    - [ ] Infastructure
+    - [ ] Military
+    - [ ] Resources
+
 - [ ] Realm Bonuses
 - [ ] Images
     - [ ] Units

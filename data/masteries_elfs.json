@@ -1,0 +1,365 @@
+[
+  {
+    "name": "Wood Production",
+    "race": "Elf",
+    "info": "Increases the production of iron in your Town",
+    "unlock_level": 0,
+    "effect": {
+      "value": 4,
+      "type": "percentage",
+      "levels": 5
+    }
+  },
+  {
+    "name": "Infantry Initiative",
+    "race": "Elf",
+    "info": "Increases the Initiative of your infantry",
+    "unlock_level": 0,
+    "effect": {
+      "value": 1,
+      "type": "int",
+      "levels": 5
+    }
+  },
+  {
+    "name": "Crop Production",
+    "race": "Elf",
+    "info": "Increases the production of iron in your Town",
+    "unlock_level": 0,
+    "effect": {
+      "value": 3,
+      "type": "percentage",
+      "levels": 5
+    }
+  },
+  {
+    "name": "Iron Production",
+    "race": "Elf",
+    "info": "Increases the production of iron in your Town",
+    "unlock_level": 0,
+    "effect": {
+      "value": 3,
+      "type": "percentage",
+      "levels": 5
+    }
+  },
+  {
+    "name": "Dungeon resurrection",
+    "race": "Elf",
+    "info": "Increases the resurrection of troops while fighting in the Dungeon",
+    "unlock_level": 7,
+    "effect": {
+      "value": 10,
+      "type": "percentage",
+      "levels": 5
+    }
+  },
+  {
+    "name": "Cavalry Initiative",
+    "race": "Elf",
+    "info": "Increases the Initiative of your Cavalry",
+    "unlock_level": 7,
+    "effect": {
+      "value": 1,
+      "type": "int",
+      "levels": 5
+    }
+  },
+  {
+    "name": "Infantry Strength",
+    "race": "Elf",
+    "info": "Increases the Fighting Strength of your infantry",
+    "unlock_level": 7,
+    "effect": {
+      "value": 1,
+      "type": "percentage",
+      "levels": 20
+    }
+  },
+  {
+    "name": "Infantry Strength",
+    "race": "Elf",
+    "info": "Increases the Fighting Strength of your infantry",
+    "unlock_level": 7,
+    "effect": {
+      "value": 2,
+      "type": "percentage",
+      "levels": 2
+    }
+  },
+  {
+    "name": "Slot 1: Strength",
+    "race": "Elf",
+    "info": "Increases the Fighting Strength of units assigned to the first slot of each Warlord",
+    "unlock_level": 7,
+    "effect": {
+      "value": 2,
+      "type": "percentage",
+      "levels": 20
+    }
+  },
+  {
+    "name": "Storage Capacity",
+    "race": "Elf",
+    "info": "Increases your storage capacity",
+    "unlock_level": 11,
+    "effect": {
+      "value": 6,
+      "type": "percentage",
+      "levels": 5
+    }
+  },
+  {
+    "name": "Infantry capacity",
+    "race": "Elf",
+    "info": "Increases the troop capacity for the infantry slot of each Warlord",
+    "unlock_level": 11,
+    "effect": {
+      "value": 3,
+      "type": "percentage",
+      "levels": 5
+    }
+  },
+  {
+    "name": "Slot 1: Capacity",
+    "race": "Elf",
+    "info": "Increases the troop capacity for the first slot of each Warlord",
+    "unlock_level": 11,
+    "effect": {
+      "value": 3,
+      "type": "percentage",
+      "levels": 20
+    }
+  },
+  {
+    "name": "Slot 2: Capacity",
+    "race": "Elf",
+    "info": "Increases the troop capacity for the first slot of each Warlord",
+    "unlock_level": 11,
+    "effect": {
+      "value": 4,
+      "type": "percentage",
+      "levels": 20
+    }
+  },
+  {
+    "name": "Infantry training time",
+    "race": "Elf",
+    "info": "Faster training time for your infantry",
+    "unlock_level": 11,
+    "effect": {
+      "value": 2,
+      "type": "percentage",
+      "levels": 20
+    }
+  },
+  {
+    "name": "Storage capacity",
+    "race": "Elf",
+    "info": "Increases your storage capacity",
+    "unlock_level": 22,
+    "effect": {
+      "value": 10,
+      "type": "percentage",
+      "levels": 3
+    }
+  },
+  {
+    "name": "Dungeon critical damage",
+    "race": "Elf",
+    "info": "Increases the change of critical damage while fighting in the Dungeon",
+    "unlock_level": 22,
+    "effect": {
+      "value": 10,
+      "type": "percentage",
+      "levels": 5
+    }
+  },
+  {
+    "name": "Artillery Initiative",
+    "race": "Elf",
+    "info": "Increases the initiative of your artillery",
+    "unlock_level": 22,
+    "effect": {
+      "value": 1,
+      "type": "int",
+      "levels": 5
+    }
+  },
+  {
+    "name": "Cavalry Strength",
+    "race": "Elf",
+    "info": "Increases the Fighting Strength of your cavalry",
+    "unlock_level": 22,
+    "effect": {
+      "value": 1,
+      "type": "percentage",
+      "levels": 20
+    }
+  },
+  {
+    "name": "Cavalry Strength",
+    "race": "Elf",
+    "info": "Increases the Fighting Strength of your cavalry",
+    "unlock_level": 22,
+    "effect": {
+      "value": 2,
+      "type": "percentage",
+      "levels": 2
+    }
+  },
+  {
+    "name": "Slot 2: Strength",
+    "race": "Elf",
+    "info": "Increases the Fighting Strength of units assigned to the first slot of each Warlord",
+    "unlock_level": 22,
+    "effect": {
+      "value": 2,
+      "type": "percentage",
+      "levels": 20
+    }
+  },
+  {
+    "name": "Building construction time",
+    "race": "Elf",
+    "info": "Faster building upgrade time in your Town",
+    "unlock_level": 33,
+    "effect": {
+      "value": 4,
+      "type": "percentage",
+      "levels": 10
+    }
+  },
+  {
+    "name": "Cavalry Capacity",
+    "race": "Elf",
+    "info": "Increases the troop capacity for the cavalry slot of each Warlord",
+    "unlock_level": 33,
+    "effect": {
+      "value": 3,
+      "type": "percentage",
+      "levels": 5
+    }
+  },
+  {
+    "name": "Artillery Capacity",
+    "race": "Elf",
+    "info": "Increases the troop capacity for the artillery slot of each Warlord",
+    "unlock_level": 33,
+    "effect": {
+      "value": 3,
+      "type": "percentage",
+      "levels": 5
+    }
+  },
+  {
+    "name": "Slot 2: Capacity",
+    "race": "Elf",
+    "info": "Increases the troop capacity for the third slot of each Warlord",
+    "unlock_level": 33,
+    "effect": {
+      "value": 4,
+      "type": "percentage",
+      "levels": 20
+    }
+  },
+  {
+    "name": "Warlord Speed",
+    "race": "Elf",
+    "info": "Increases the Speed of your Warlord",
+    "unlock_level": 33,
+    "effect": {
+      "value": 1,
+      "type": "int",
+      "levels": 10
+    }
+  },
+  {
+    "name": "Artillery training time",
+    "race": "Elf",
+    "info": "Faster training time for your artillery",
+    "unlock_level": 33,
+    "effect": {
+      "value": 4,
+      "type": "percentage",
+      "levels": 10
+    }
+  },
+  {
+    "name": "Cavalry training time",
+    "race": "Elf",
+    "info": "Faster training time for your cavalry",
+    "unlock_level": 33,
+    "effect": {
+      "value": 2,
+      "type": "percentage",
+      "levels": 20
+    }
+  },
+  {
+    "name": "Dungeon Strength",
+    "race": "Elf",
+    "info": "Increases the Fighting Strength of your units while fighting in the Dungeon",
+    "unlock_level": 44,
+    "effect": {
+      "value": 5,
+      "type": "percentage",
+      "levels": 3
+    }
+  },
+  {
+    "name": "Artillery Strength",
+    "race": "Elf",
+    "info": "Increases the Fighting Strength of your artillery",
+    "unlock_level": 44,
+    "effect": {
+      "value": 2,
+      "type": "percentage",
+      "levels": 2
+    }
+  },
+  {
+    "name": "Cavalry training time",
+    "race": "Elf",
+    "info": "Faster training time for your cavalry",
+    "unlock_level": 44,
+    "effect": {
+      "value": 5,
+      "type": "percentage",
+      "levels": 5
+    }
+  },
+  {
+    "name": "Artillery Strength",
+    "race": "Elf",
+    "info": "Increases the Fighting Strength of your artillery",
+    "unlock_level": 44,
+    "effect": {
+      "value": 1,
+      "type": "percentage",
+      "levels": 20
+    }
+  },
+  {
+    "name": "Artillery Strength",
+    "race": "Elf",
+    "info": "Increases the Fighting Strength of your artillery",
+    "unlock_level": 44,
+    "effect": {
+      "value": 2,
+      "type": "percentage",
+      "levels": 2
+    }
+  },
+  {
+    "name": "Slot 3: Strength",
+    "race": "Elf",
+    "info": "Increases the Fighting Strength of units assigned to the first slot of each Warlord",
+    "unlock_level": 22,
+    "effect": {
+      "value": 3,
+      "type": "percentage",
+      "levels": 20
+    }
+  }
+]
