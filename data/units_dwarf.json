@@ -4,7 +4,7 @@
     "race": "dwarf",
     "type": "infantry",
     "fighting_strength": 30,
-    "iniative": 6,
+    "initiative": 6,
     "special_ability": {
       "name": "+50% Fighting Strength vs Goblins",
       "bonus": [
@@ -28,7 +28,7 @@
     "race": "dwarf",
     "type": "infantry",
     "fighting_strength": 35,
-    "iniative": 10,
+    "initiative": 10,
     "special_ability": {
       "name": "+35% Fighting Strength when attacking",
       "bonus": [
@@ -50,7 +50,7 @@
     "race": "dwarf",
     "type": "infantry",
     "fighting_strength": 45,
-    "iniative": 18,
+    "initiative": 18,
     "special_ability": {
       "name": "+50% Fighting Strength vs cavalry",
       "bonus": [
@@ -74,7 +74,7 @@
     "race": "dwarf",
     "type": "infantry",
     "fighting_strength": 65,
-    "iniative": 12,
+    "initiative": 12,
     "special_ability": {
       "name": "+35% damage against Elves",
       "bonus": [
@@ -98,7 +98,7 @@
     "race": "dwarf",
     "type": "infantry",
     "fighting_strength": 90,
-    "iniative": 8,
+    "initiative": 8,
     "special_ability": {
       "name": "+50% Fighting Strength vs artillery",
       "bonus": [
@@ -122,7 +122,7 @@
     "race": "dwarf",
     "type": "cavalry",
     "fighting_strength": 80,
-    "iniative": 20,
+    "initiative": 20,
     "special_ability": {
       "name": "+50% Fighting Strength vs cavalry",
       "bonus": [
@@ -146,7 +146,7 @@
     "race": "dwarf",
     "type": "cavalry",
     "fighting_strength": 140,
-    "iniative": 12,
+    "initiative": 12,
     "special_ability": {
       "name": "+50% Fighting Strength vs infantry",
       "bonus": [
@@ -170,7 +170,7 @@
     "race": "dwarf",
     "type": "artillery",
     "fighting_strength": 200,
-    "iniative": 16,
+    "initiative": 16,
     "special_ability": {
       "name": "+50% Fighting Strength vs artillery",
       "bonus": [
@@ -194,7 +194,7 @@
     "race": "dwarf",
     "type": "artillery",
     "fighting_strength": 325,
-    "iniative": 25,
+    "initiative": 25,
     "special_ability": {
       "name": "+35% damage against dwarfes",
       "bonus": [
@@ -218,7 +218,7 @@
     "race": "dwarf",
     "type": "artillery",
     "fighting_strength": 450,
-    "iniative": 20,
+    "initiative": 20,
     "special_ability": {
       "name": "+35% Fighting Strength when defending",
       "bonus": [

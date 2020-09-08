@@ -11,9 +11,9 @@
     }
   },
   {
-    "name": "Infantry Iniative",
+    "name": "Infantry initiative",
     "race": "dwarf",
-    "info": "Increases the Iniative of your infantry",
+    "info": "Increases the initiative of your infantry",
     "unlock_level": 0,
     "effect": {
       "value": 1,

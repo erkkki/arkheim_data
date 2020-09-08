@@ -4,7 +4,7 @@
     "race": "elf",
     "type": "infantry",
     "fighting_strength": 27,
-    "iniative": 7,
+    "initiative": 7,
     "special_ability": {
       "name": "+50% Fighting Strength vs Goblins",
       "bonus": [
@@ -28,7 +28,7 @@
     "race": "elf",
     "type": "infantry",
     "fighting_strength": 44,
-    "iniative": 10,
+    "initiative": 10,
     "special_ability": {
       "name": "+50% Fighting Strength vs infantry",
       "bonus": [
@@ -52,7 +52,7 @@
     "race": "elf",
     "type": "infantry",
     "fighting_strength": 66,
-    "iniative": 8,
+    "initiative": 8,
     "special_ability": {
       "name": "+50% Fighting Strength vs cavalry",
       "bonus": [
@@ -76,7 +76,7 @@
     "race": "elf",
     "type": "cavalry",
     "fighting_strength": 66,
-    "iniative": 15,
+    "initiative": 15,
     "special_ability": {
       "name": "+35% Fighting Strength when attacking",
       "bonus": [
@@ -98,7 +98,7 @@
     "race": "elf",
     "type": "cavalry",
     "fighting_strength": 88,
-    "iniative": 11,
+    "initiative": 11,
     "special_ability": {
       "name": "+50% Fighting Strength vs infantry",
       "bonus": [
@@ -122,7 +122,7 @@
     "race": "elf",
     "type": "cavalry",
     "fighting_strength": 132,
-    "iniative": 14,
+    "initiative": 14,
     "special_ability": {
       "name": "+35% Damage against Dwarves",
       "bonus": [
@@ -146,7 +146,7 @@
     "race": "elf",
     "type": "cavalry",
     "fighting_strength": 198,
-    "iniative": 12,
+    "initiative": 12,
     "special_ability": {
       "name": "+50% Fighting Strength vs artillery",
       "bonus": [
@@ -170,7 +170,7 @@
     "race": "elf",
     "type": "artillery",
     "fighting_strength": 165,
-    "iniative": 16,
+    "initiative": 16,
     "special_ability": {
       "name": "+50% Fighting Strength vs cavalry",
       "bonus": [
@@ -194,7 +194,7 @@
     "race": "elf",
     "type": "artillery",
     "fighting_strength": 330,
-    "iniative": 23,
+    "initiative": 23,
     "special_ability": {
       "name": "+35% Fighting Strength against Elves",
       "bonus": [
@@ -218,7 +218,7 @@
     "race": "elf",
     "type": "artillery",
     "fighting_strength": 495,
-    "iniative": 19,
+    "initiative": 19,
     "special_ability": {
       "name": "+35% Fighting Strength when defending",
       "bonus": [

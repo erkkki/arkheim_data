@@ -16,7 +16,7 @@ Making it easy to start simple calculators or anything.
     "race": String, // dwarf / elf
     "type": String, // infantry / cavalry / artillery
     "fighting_strength": Int,
-    "iniative": Int,
+    "initiative": Int,
     "special_ability": {
       "name": String,
       "bonus": ???
