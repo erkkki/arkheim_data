@@ -1,7 +1,7 @@
 [
   {
     "name": "Iron Production",
-    "race": "Dwarf",
+    "race": "dwarf",
     "info": "Increases the production of iron in your Town",
     "unlock_level": 0,
     "effect": {
@@ -12,7 +12,7 @@
   },
   {
     "name": "Infantry Iniative",
-    "race": "Dwarf",
+    "race": "dwarf",
     "info": "Increases the Iniative of your infantry",
     "unlock_level": 0,
     "effect": {
@@ -23,7 +23,7 @@
   },
   {
     "name": "Crop Production",
-    "race": "Dwarf",
+    "race": "dwarf",
     "info": "Increases the production of crop in your Town",
     "unlock_level": 0,
     "effect": {
@@ -34,7 +34,7 @@
   },
   {
     "name": "Wood Production",
-    "race": "Dwarf",
+    "race": "dwarf",
     "info": "Increases the production of wood in your Town",
     "unlock_level": 0,
     "effect": {
@@ -45,7 +45,7 @@
   },
   {
     "name": "Slot 1: Strength",
-    "race": "Dwarf",
+    "race": "dwarf",
     "info": "Increases the Fighting Strength of units assigned to the first slot of each Warlord",
     "unlock_level": null,
     "effect": {
@@ -56,7 +56,7 @@
   },
   {
     "name": "Infantry Strength",
-    "race": "Dwarf",
+    "race": "dwarf",
     "info": "Increases the Fighting Strength of your infantry",
     "unlock_level": null,
     "effect": {
@@ -67,7 +67,7 @@
   },
   {
     "name": "Cavalry Initiative",
-    "race": "Dwarf",
+    "race": "dwarf",
     "info": "Increases the initiative of your cavalry",
     "unlock_level": null,
     "effect": {
@@ -78,7 +78,7 @@
   },
   {
     "name": "Slot 1: Capacity",
-    "race": "Dwarf",
+    "race": "dwarf",
     "info": "Increases the troop capacity for the first slot of each Warlord",
     "unlock_level": null,
     "effect": {
@@ -89,7 +89,7 @@
   },
   {
     "name": "Storage Capacity",
-    "race": "Dwarf",
+    "race": "dwarf",
     "info": "Increases your storage capacity",
     "unlock_level": null,
     "effect": {
@@ -100,7 +100,7 @@
   },
   {
     "name": "Dungeon Strength",
-    "race": "Dwarf",
+    "race": "dwarf",
     "info": "Increases the Fighting Strength of your units while fighting in the Dungeon",
     "unlock_level": null,
     "effect": {
@@ -111,7 +111,7 @@
   },
   {
     "name": "Slot 2: Strength",
-    "race": "Dwarf",
+    "race": "dwarf",
     "info": "Increases the Fighting Strength of units assigned to the first slot of each Warlord",
     "unlock_level": null,
     "effect": {
@@ -122,7 +122,7 @@
   },
   {
     "name": "Cavalry Strength",
-    "race": "Dwarf",
+    "race": "dwarf",
     "info": "Increases the Fighting Strength of your cavalry",
     "unlock_level": null,
     "effect": {
@@ -133,7 +133,7 @@
   },
   {
     "name": "Artillery Initiative",
-    "race": "Dwarf",
+    "race": "dwarf",
     "info": "Increases the initiative of your artillery",
     "unlock_level": null,
     "effect": {
@@ -144,7 +144,7 @@
   },
   {
     "name": "Slot 2: Capacity",
-    "race": "Dwarf",
+    "race": "dwarf",
     "info": "Increases the the Fighting Strength of units assigned to the first slot of each Warlord",
     "unlock_level": null,
     "effect": {
@@ -155,7 +155,7 @@
   },
   {
     "name": "Building construction time",
-    "race": "Dwarf",
+    "race": "dwarf",
     "info": "Faster building upgrade times in your Town",
     "unlock_level": null,
     "effect": {
@@ -166,7 +166,7 @@
   },
   {
     "name": "Dungeon critical damage",
-    "race": "Dwarf",
+    "race": "dwarf",
     "info": "Increases the change of critical damage while fighting in the Dungeon",
     "unlock_level": null,
     "effect": {
@@ -177,7 +177,7 @@
   },
   {
     "name": "Slot 3: Strength",
-    "race": "Dwarf",
+    "race": "dwarf",
     "info": "Increases the Fighting Strength of units assigned to the first slot of each Warlord",
     "unlock_level": null,
     "effect": {
@@ -188,7 +188,7 @@
   },
   {
     "name": "Artillery Strength",
-    "race": "Dwarf",
+    "race": "dwarf",
     "info": "Increases the Fighting Strength of your artillery",
     "unlock_level": null,
     "effect": {
@@ -199,7 +199,7 @@
   },
   {
     "name": "Artillery Capacity",
-    "race": "Dwarf",
+    "race": "dwarf",
     "info": "Increases the troop capacity for the artillery slot of each Warlord",
     "unlock_level": null,
     "effect": {
@@ -210,7 +210,7 @@
   },
   {
     "name": "Slot 3: Capacity",
-    "race": "Dwarf",
+    "race": "dwarf",
     "info": "Increases the Fighting Strength of units assigned to the first slot of each Warlord",
     "unlock_level": null,
     "effect": {
@@ -221,7 +221,7 @@
   },
   {
     "name": "Storage Capacity",
-    "race": "Dwarf",
+    "race": "dwarf",
     "info": "Increases your storage capacity",
     "unlock_level": null,
     "effect": {
@@ -232,7 +232,7 @@
   },
   {
     "name": "Dungeon resurrection",
-    "race": "Dwarf",
+    "race": "dwarf",
     "info": "Increases the resurrection of troops while fighting in the Dungeon",
     "unlock_level": null,
     "effect": {
@@ -243,7 +243,7 @@
   },
   {
     "name": "Infantry Capacity",
-    "race": "Dwarf",
+    "race": "dwarf",
     "info": "Increases the troop capacity for the infantry slot of each Warlord",
     "unlock_level": null,
     "effect": {
@@ -254,7 +254,7 @@
   },
   {
     "name": "Cavalry Capacity",
-    "race": "Dwarf",
+    "race": "dwarf",
     "info": "Increases the troop capacity for the cavalry slot of each Warlord",
     "unlock_level": null,
     "effect": {
@@ -265,7 +265,7 @@
   },
   {
     "name": "Cavalry training time",
-    "race": "Dwarf",
+    "race": "dwarf",
     "info": "Faster training time for your cavalry",
     "unlock_level": null,
     "effect": {
@@ -276,7 +276,7 @@
   },
   {
     "name": "Infantry Strength",
-    "race": "Dwarf",
+    "race": "dwarf",
     "info": "Increases the Fighting Strength of your infantry",
     "unlock_level": null,
     "effect": {
@@ -287,7 +287,7 @@
   },
   {
     "name": "Building construction time",
-    "race": "Dwarf",
+    "race": "dwarf",
     "info": "Faster building upgrade times in your Town",
     "unlock_level": null,
     "effect": {
@@ -298,7 +298,7 @@
   },
   {
     "name": "Warlord Speed",
-    "race": "Dwarf",
+    "race": "dwarf",
     "info": "Increases the Speed of your Warlords",
     "unlock_level": null,
     "effect": {
@@ -309,7 +309,7 @@
   },
   {
     "name": "Artillery Strength",
-    "race": "Dwarf",
+    "race": "dwarf",
     "info": "Increases the Fighting Strength of your artillery",
     "unlock_level": null,
     "effect": {
@@ -320,7 +320,7 @@
   },
   {
     "name": "Cavalry Strength",
-    "race": "Dwarf",
+    "race": "dwarf",
     "info": "Increases the Fighting Strength of your cavalry",
     "unlock_level": null,
     "effect": {
@@ -331,7 +331,7 @@
   },
   {
     "name": "Infantry training time",
-    "race": "Dwarf",
+    "race": "dwarf",
     "info": "Faster training time for your infantry",
     "unlock_level": null,
     "effect": {
@@ -342,7 +342,7 @@
   },
   {
     "name": "Artillery training time",
-    "race": "Dwarf",
+    "race": "dwarf",
     "info": "Faster training time for your artillery",
     "unlock_level": null,
     "effect": {
@@ -353,7 +353,7 @@
   },
   {
     "name": "Infantry training time",
-    "race": "Dwarf",
+    "race": "dwarf",
     "info": "Faster training time for your infantry",
     "unlock_level": null,
     "effect": {

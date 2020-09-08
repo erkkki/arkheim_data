@@ -1,7 +1,7 @@
 [
   {
     "name": "Iron Sentry",
-    "race": "Dwarf",
+    "race": "dwarf",
     "type": "Infantry",
     "fighting_strength": 30,
     "iniative": 6,
@@ -25,7 +25,7 @@
   },
   {
     "name": "Valkyrian Berserker",
-    "race": "Dwarf",
+    "race": "dwarf",
     "type": "Infantry",
     "fighting_strength": 35,
     "iniative": 10,
@@ -47,7 +47,7 @@
   },
   {
     "name": "Detonatress",
-    "race": "Dwarf",
+    "race": "dwarf",
     "type": "Infantry",
     "fighting_strength": 45,
     "iniative": 18,
@@ -71,7 +71,7 @@
   },
   {
     "name": "Cratemaker",
-    "race": "Dwarf",
+    "race": "dwarf",
     "type": "Infantry",
     "fighting_strength": 65,
     "iniative": 12,
@@ -95,7 +95,7 @@
   },
   {
     "name": "Breathing Bastion",
-    "race": "Dwarf",
+    "race": "dwarf",
     "type": "Infantry",
     "fighting_strength": 90,
     "iniative": 8,
@@ -119,7 +119,7 @@
   },
   {
     "name": "Lightning Paw",
-    "race": "Dwarf",
+    "race": "dwarf",
     "type": "Cavalry",
     "fighting_strength": 80,
     "iniative": 20,
@@ -143,7 +143,7 @@
   },
   {
     "name": "Thunderjaw",
-    "race": "Dwarf",
+    "race": "dwarf",
     "type": "Cavalry",
     "fighting_strength": 140,
     "iniative": 12,
@@ -167,7 +167,7 @@
   },
   {
     "name": "Rifleman",
-    "race": "Dwarf",
+    "race": "dwarf",
     "type": "Artillery",
     "fighting_strength": 200,
     "iniative": 16,
@@ -191,12 +191,12 @@
   },
   {
     "name": "Mountain Crusher",
-    "race": "Dwarf",
+    "race": "dwarf",
     "type": "Artillery",
     "fighting_strength": 325,
     "iniative": 25,
     "special_ability": {
-      "name": "+35% damage against Dwarfes",
+      "name": "+35% damage against dwarfes",
       "bonus": [
         false,
         false,
@@ -215,7 +215,7 @@
   },
   {
     "name": "Supreme Equalizer",
-    "race": "Dwarf",
+    "race": "dwarf",
     "type": "Artillery",
     "fighting_strength": 450,
     "iniative": 20,

@@ -1,7 +1,7 @@
 [
   {
     "name": "Equinox",
-    "race": "Elf",
+    "race": "elf",
     "level_needed": 0,
     "premium": false,
     "price": 0,
@@ -25,7 +25,7 @@
   },
   {
     "name": "Sinuo",
-    "race": "Elf",
+    "race": "elf",
     "level_needed": 0,
     "premium": true,
     "price": 350,
@@ -49,7 +49,7 @@
   },
   {
     "name": "Acidious",
-    "race": "Elf",
+    "race": "elf",
     "level_needed": 0,
     "premium": false,
     "price": 0,
@@ -73,7 +73,7 @@
   },
   {
     "name": "Viaticus",
-    "race": "Elf",
+    "race": "elf",
     "level_needed": 7,
     "premium": false,
     "price": 0,
@@ -97,7 +97,7 @@
   },
   {
     "name": "Arilla",
-    "race": "Elf",
+    "race": "elf",
     "level_needed": 11,
     "premium": true,
     "price": 400,
@@ -121,7 +121,7 @@
   },
   {
     "name": "Cicatrix",
-    "race": "Elf",
+    "race": "elf",
     "level_needed": 16,
     "premium": false,
     "price": 0,
@@ -145,7 +145,7 @@
   },
   {
     "name": "Alabastros",
-    "race": "Elf",
+    "race": "elf",
     "level_needed": 21,
     "premium": true,
     "price": 450,
@@ -169,7 +169,7 @@
   },
   {
     "name": "Cerulean",
-    "race": "Elf",
+    "race": "elf",
     "level_needed": 26,
     "premium": false,
     "price": 0,
@@ -193,7 +193,7 @@
   },
   {
     "name": "Vortex",
-    "race": "Elf",
+    "race": "elf",
     "level_needed": 31,
     "premium": true,
     "price": 500,
@@ -217,7 +217,7 @@
   },
   {
     "name": "Robinian",
-    "race": "Elf",
+    "race": "elf",
     "level_needed": 36,
     "premium": false,
     "price": 0,
@@ -241,7 +241,7 @@
   },
   {
     "name": "Bilice",
-    "race": "Elf",
+    "race": "elf",
     "level_needed": 41,
     "premium": true,
     "price": 550,
@@ -265,7 +265,7 @@
   },
   {
     "name": "Serratan",
-    "race": "Elf",
+    "race": "elf",
     "level_needed": 46,
     "premium": false,
     "price": 0,
@@ -289,7 +289,7 @@
   },
   {
     "name": "Pavorex",
-    "race": "Elf",
+    "race": "elf",
     "level_needed": 51,
     "premium": true,
     "price": 600,
@@ -313,7 +313,7 @@
   },
   {
     "name": "Ceras",
-    "race": "Elf",
+    "race": "elf",
     "level_needed": 56,
     "premium": false,
     "price": 0,
@@ -337,7 +337,7 @@
   },
   {
     "name": "Radix",
-    "race": "Elf",
+    "race": "elf",
     "level_needed": 61,
     "premium": true,
     "price": 650,
@@ -361,7 +361,7 @@
   },
   {
     "name": "Candidos",
-    "race": "Elf",
+    "race": "elf",
     "level_needed": 66,
     "premium": false,
     "price": 0,
@@ -385,7 +385,7 @@
   },
   {
     "name": "Algus",
-    "race": "Elf",
+    "race": "elf",
     "level_needed": 71,
     "premium": true,
     "price": 700,
@@ -409,7 +409,7 @@
   },
   {
     "name": "Aurora",
-    "race": "Elf",
+    "race": "elf",
     "level_needed": 76,
     "premium": false,
     "price": 0,
@@ -433,7 +433,7 @@
   },
   {
     "name": "Nacris",
-    "race": "Elf",
+    "race": "elf",
     "level_needed": 81,
     "premium": true,
     "price": 750,
@@ -457,7 +457,7 @@
   },
   {
     "name": "Coron",
-    "race": "Elf",
+    "race": "elf",
     "level_needed": 86,
     "premium": false,
     "price": 0,
@@ -481,7 +481,7 @@
   },
   {
     "name": "Mollus",
-    "race": "Elf",
+    "race": "elf",
     "level_needed": 91,
     "premium": true,
     "price": 800,
@@ -505,7 +505,7 @@
   },
   {
     "name": "Aphace",
-    "race": "Elf",
+    "race": "elf",
     "level_needed": 96,
     "premium": false,
     "price": 0,
