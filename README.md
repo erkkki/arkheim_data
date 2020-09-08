@@ -31,6 +31,9 @@ Making it easy to start simple calculators or anything.
 [{
     "name": String,
     "race": String,  // Dwarf / Elf
+    "level_needed": 96,
+    "premium": false,
+    "price": 0,
     "speed": Int,
     "morale": Int,
     "slots": { // Type: Infantry / Cavalry / Artillery
@@ -38,10 +41,7 @@ Making it easy to start simple calculators or anything.
       "slot_2": { "type": String, "capacity": Int },
       "slot_3": { "type": String, "capacity": Int }
     },
-    "special_ability": {
-      "name": String, 
-      "bonus": ???
-    }
+    "special_ability": String
 }, ...]
 ```
 
@@ -98,7 +98,7 @@ Making it easy to start simple calculators or anything.
     - [ ] Elf, unit cost missing.
 - [ ] Warlords
     - [ ] Dwarf
-    - [ ] Elf
+    - [x] Elf
 - [ ] Masteries
     - [ ] Dwarf
     - [ ] Elf

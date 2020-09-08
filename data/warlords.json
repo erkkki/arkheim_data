@@ -1,26 +1,530 @@
 [
   {
-    "name": "",
-    "race": "Dwarf",
-    "speed": 1,
-    "morale": 1,
+    "name": "Equinox",
+    "race": "Elf",
+    "level_needed": 0,
+    "premium": false,
+    "price": 0,
+    "speed": 50,
+    "morale": 40,
     "slots": {
       "slot_1": {
         "type": "infantry",
-        "capacity": 1
+        "capacity": 500
       },
       "slot_2": {
         "type": "infantry",
-        "capacity": 1
+        "capacity": 300
       },
       "slot_3": {
         "type": "infantry",
-        "capacity": 1
+        "capacity": 300
       }
     },
-    "special_ability": {
-      "name": "+50% Fighting Strength vs Goblins",
-      "bonus": "+50%"
-    }
+    "special_ability": "Increases Fighting Strength of army by 15%"
+  },
+  {
+    "name": "Sinuo",
+    "race": "Elf",
+    "level_needed": 0,
+    "premium": true,
+    "price": 350,
+    "speed": 46,
+    "morale": 35,
+    "slots": {
+      "slot_1": {
+        "type": "infantry",
+        "capacity": 400
+      },
+      "slot_2": {
+        "type": "infantry",
+        "capacity": 400
+      },
+      "slot_3": {
+        "type": "cavalry",
+        "capacity": 300
+      }
+    },
+    "special_ability": "Increases XP gainer by 60%"
+  },
+  {
+    "name": "Acidious",
+    "race": "Elf",
+    "level_needed": 0,
+    "premium": false,
+    "price": 0,
+    "speed": 36,
+    "morale": 55,
+    "slots": {
+      "slot_1": {
+        "type": "infantry",
+        "capacity": 400
+      },
+      "slot_2": {
+        "type": "cavalry",
+        "capacity": 200
+      },
+      "slot_3": {
+        "type": "cavalry",
+        "capacity": 400
+      }
+    },
+    "special_ability": "One poison stack per turn Each kills 2% of units"
+  },
+  {
+    "name": "Viaticus",
+    "race": "Elf",
+    "level_needed": 7,
+    "premium": false,
+    "price": 0,
+    "speed": 40,
+    "morale": 45,
+    "slots": {
+      "slot_1": {
+        "type": "infantry",
+        "capacity": 600
+      },
+      "slot_2": {
+        "type": "infantry",
+        "capacity": 600
+      },
+      "slot_3": {
+        "type": "cavalry",
+        "capacity": 250
+      }
+    },
+    "special_ability": "Resurrects 35% of units after each round"
+  },
+  {
+    "name": "Arilla",
+    "race": "Elf",
+    "level_needed": 11,
+    "premium": true,
+    "price": 400,
+    "speed": 34,
+    "morale": 60,
+    "slots": {
+      "slot_1": {
+        "type": "infantry",
+        "capacity": 500
+      },
+      "slot_2": {
+        "type": "cavalry",
+        "capacity": 325
+      },
+      "slot_3": {
+        "type": "cavalry",
+        "capacity": 325
+      }
+    },
+    "special_ability": "Increases Iniative by 1 for every other Warlord in a battle"
+  },
+  {
+    "name": "Cicatrix",
+    "race": "Elf",
+    "level_needed": 16,
+    "premium": false,
+    "price": 0,
+    "speed": 44,
+    "morale": 35,
+    "slots": {
+      "slot_1": {
+        "type": "infantry",
+        "capacity": 600
+      },
+      "slot_2": {
+        "type": "cavalry",
+        "capacity": 275
+      },
+      "slot_3": {
+        "type": "infantry",
+        "capacity": 750
+      }
+    },
+    "special_ability": "Increases damage of the army by 25%"
+  },
+  {
+    "name": "Alabastros",
+    "race": "Elf",
+    "level_needed": 21,
+    "premium": true,
+    "price": 450,
+    "speed": 38,
+    "morale": 40,
+    "slots": {
+      "slot_1": {
+        "type": "infantry",
+        "capacity": 725
+      },
+      "slot_2": {
+        "type": "infantry",
+        "capacity": 400
+      },
+      "slot_3": {
+        "type": "infantry",
+        "capacity": 433
+      }
+    },
+    "special_ability": "50% change of dealing critical damage"
+  },
+  {
+    "name": "Cerulean",
+    "race": "Elf",
+    "level_needed": 26,
+    "premium": false,
+    "price": 0,
+    "speed": 36,
+    "morale": 55,
+    "slots": {
+      "slot_1": {
+        "type": "cavalry",
+        "capacity": 450
+      },
+      "slot_2": {
+        "type": "cavalry",
+        "capacity": 250
+      },
+      "slot_3": {
+        "type": "infantry",
+        "capacity": 250
+      }
+    },
+    "special_ability": "Increases damage by 3% for each of up to 20 friendly Warlords in a battle"
+  },
+  {
+    "name": "Vortex",
+    "race": "Elf",
+    "level_needed": 31,
+    "premium": true,
+    "price": 500,
+    "speed": 44,
+    "morale": 35,
+    "slots": {
+      "slot_1": {
+        "type": "infantry",
+        "capacity": 1000
+      },
+      "slot_2": {
+        "type": "infantry",
+        "capacity": 600
+      },
+      "slot_3": {
+        "type": "infantry",
+        "capacity": 600
+      }
+    },
+    "special_ability": "Resurrects 35% of units after each round"
+  },
+  {
+    "name": "Robinian",
+    "race": "Elf",
+    "level_needed": 36,
+    "premium": false,
+    "price": 0,
+    "speed": 34,
+    "morale": 50,
+    "slots": {
+      "slot_1": {
+        "type": "infantry",
+        "capacity": 550
+      },
+      "slot_2": {
+        "type": "cavalry",
+        "capacity": 500
+      },
+      "slot_3": {
+        "type": "artillery",
+        "capacity": 150
+      }
+    },
+    "special_ability": "Direct damage of 4% of current Fighting Strength"
+  },
+  {
+    "name": "Bilice",
+    "race": "Elf",
+    "level_needed": 41,
+    "premium": true,
+    "price": 550,
+    "speed": 28,
+    "morale": 70,
+    "slots": {
+      "slot_1": {
+        "type": "infantry",
+        "capacity": 600
+      },
+      "slot_2": {
+        "type": "artillery",
+        "capacity": 175
+      },
+      "slot_3": {
+        "type": "artillery",
+        "capacity": 175
+      }
+    },
+    "special_ability": "Increases XP gained by 5% for every other Warlord in a battle"
+  },
+  {
+    "name": "Serratan",
+    "race": "Elf",
+    "level_needed": 46,
+    "premium": false,
+    "price": 0,
+    "speed": 32,
+    "morale": 40,
+    "slots": {
+      "slot_1": {
+        "type": "cavalry",
+        "capacity": 325
+      },
+      "slot_2": {
+        "type": "infantry",
+        "capacity": 875
+      },
+      "slot_3": {
+        "type": "artillery",
+        "capacity": 175
+      }
+    },
+    "special_ability": "One poison stack per turn Each kills 2% of units"
+  },
+  {
+    "name": "Pavorex",
+    "race": "Elf",
+    "level_needed": 51,
+    "premium": true,
+    "price": 600,
+    "speed": 28,
+    "morale": 60,
+    "slots": {
+      "slot_1": {
+        "type": "infantry",
+        "capacity": 650
+      },
+      "slot_2": {
+        "type": "cavalry",
+        "capacity": 500
+      },
+      "slot_3": {
+        "type": "cavalry",
+        "capacity": 400
+      }
+    },
+    "special_ability": "Increases damage of the army by 25%"
+  },
+  {
+    "name": "Ceras",
+    "race": "Elf",
+    "level_needed": 56,
+    "premium": false,
+    "price": 0,
+    "speed": 35,
+    "morale": 50,
+    "slots": {
+      "slot_1": {
+        "type": "artillery",
+        "capacity": 200
+      },
+      "slot_2": {
+        "type": "artillery",
+        "capacity": 150
+      },
+      "slot_3": {
+        "type": "artillery",
+        "capacity": 125
+      }
+    },
+    "special_ability": "One burn stack per turn each does 1000 damage"
+  },
+  {
+    "name": "Radix",
+    "race": "Elf",
+    "level_needed": 61,
+    "premium": true,
+    "price": 650,
+    "speed": 32,
+    "morale": 35,
+    "slots": {
+      "slot_1": {
+        "type": "cavalry",
+        "capacity": 450
+      },
+      "slot_2": {
+        "type": "cavalry",
+        "capacity": 325
+      },
+      "slot_3": {
+        "type": "artillery",
+        "capacity": 200
+      }
+    },
+    "special_ability": "Direct damage of 4% of current Fighting Strength"
+  },
+  {
+    "name": "Candidos",
+    "race": "Elf",
+    "level_needed": 66,
+    "premium": false,
+    "price": 0,
+    "speed": 35,
+    "morale": 45,
+    "slots": {
+      "slot_1": {
+        "type": "infantry",
+        "capacity": 800
+      },
+      "slot_2": {
+        "type": "cavalry",
+        "capacity": 500
+      },
+      "slot_3": {
+        "type": "infantry",
+        "capacity": 800
+      }
+    },
+    "special_ability": "50% chance of dealing critical damage"
+  },
+  {
+    "name": "Algus",
+    "race": "Elf",
+    "level_needed": 71,
+    "premium": true,
+    "price": 700,
+    "speed": 38,
+    "morale": 50,
+    "slots": {
+      "slot_1": {
+        "type": "artillery",
+        "capacity": 222
+      },
+      "slot_2": {
+        "type": "artillery",
+        "capacity": 222
+      },
+      "slot_3": {
+        "type": "cavalry",
+        "capacity": 222
+      }
+    },
+    "special_ability": "Decreases damage taken by your units by 25%"
+  },
+  {
+    "name": "Aurora",
+    "race": "Elf",
+    "level_needed": 76,
+    "premium": false,
+    "price": 0,
+    "speed": 34,
+    "morale": 60,
+    "slots": {
+      "slot_1": {
+        "type": "infantry",
+        "capacity": 1000
+      },
+      "slot_2": {
+        "type": "infantry",
+        "capacity": 1000
+      },
+      "slot_3": {
+        "type": "infantry",
+        "capacity": 700
+      }
+    },
+    "special_ability": "Increases Fighting Strength of army by 15%"
+  },
+  {
+    "name": "Nacris",
+    "race": "Elf",
+    "level_needed": 81,
+    "premium": true,
+    "price": 750,
+    "speed": 33,
+    "morale": 50,
+    "slots": {
+      "slot_1": {
+        "type": "cavalry",
+        "capacity": 500
+      },
+      "slot_2": {
+        "type": "cavalry",
+        "capacity": 500
+      },
+      "slot_3": {
+        "type": "artillery",
+        "capacity": 150
+      }
+    },
+    "special_ability": "Resurrects 35% of units after each round"
+  },
+  {
+    "name": "Coron",
+    "race": "Elf",
+    "level_needed": 86,
+    "premium": false,
+    "price": 0,
+    "speed": 38,
+    "morale": 45,
+    "slots": {
+      "slot_1": {
+        "type": "infantry",
+        "capacity": 580
+      },
+      "slot_2": {
+        "type": "artillery",
+        "capacity": 222
+      },
+      "slot_3": {
+        "type": "artillery",
+        "capacity": 222
+      }
+    },
+    "special_ability": "One poison stack per turn Each kills 2% of units"
+  },
+  {
+    "name": "Mollus",
+    "race": "Elf",
+    "level_needed": 91,
+    "premium": true,
+    "price": 800,
+    "speed": 30,
+    "morale": 55,
+    "slots": {
+      "slot_1": {
+        "type": "cavalry",
+        "capacity": 433
+      },
+      "slot_2": {
+        "type": "cavalry",
+        "capacity": 433
+      },
+      "slot_3": {
+        "type": "cavalry",
+        "capacity": 433
+      }
+    },
+    "special_ability": "Increases Initiative by 5"
+  },
+  {
+    "name": "Aphace",
+    "race": "Elf",
+    "level_needed": 96,
+    "premium": false,
+    "price": 0,
+    "speed": 27,
+    "morale": 45,
+    "slots": {
+      "slot_1": {
+        "type": "artillery",
+        "capacity": 250
+      },
+      "slot_2": {
+        "type": "cavalry",
+        "capacity": 200
+      },
+      "slot_3": {
+        "type": "artillery",
+        "capacity": 250
+      }
+    },
+    "special_ability": "50% change of dealing critical damage"
   }
 ]
