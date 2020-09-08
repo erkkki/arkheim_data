@@ -19,7 +19,12 @@ Making it easy to start simple calculators or anything.
     "initiative": Int,
     "special_ability": {
       "name": String,
-      "bonus": ???
+      "bonus": [
+          false, // if attack bonus.
+          false, // if defense bonus.
+          false, // if unit type bonus.
+          false, // if race bonus.
+      ]
     },
     "cost": { "wood": Int, "iron": Int, "crop": Int },
     "training_time": Int // Seconds
