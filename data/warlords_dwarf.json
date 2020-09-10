@@ -215,4 +215,79 @@
     },
     "special_ability": "Direct damage of 4% of current fighting Strength"
   }
+
+
+,
+  {
+    "name": "Bearbrawler",
+    "race": "dwarf",
+    "level_needed": null,
+    "premium": false,
+    "price": null,
+    "speed": 36,
+    "morale": 40,
+    "slots": {
+      "slot_1": {
+        "type": "infantry",
+        "capacity": 1000
+      },
+      "slot_2": {
+        "type": "infantry",
+        "capacity": 600
+      },
+      "slot_3": {
+        "type": "infantry",
+        "capacity": 600
+      }
+    },
+    "special_ability": "Direct damage of 4% of current fighting Strength"
+  },
+  {
+    "name": "Hammerskull",
+    "race": "dwarf",
+    "level_needed": null,
+    "premium": false,
+    "price": null,
+    "speed": 36,
+    "morale": 40,
+    "slots": {
+      "slot_1": {
+        "type": "infantry",
+        "capacity": 1000
+      },
+      "slot_2": {
+        "type": "infantry",
+        "capacity": 600
+      },
+      "slot_3": {
+        "type": "infantry",
+        "capacity": 600
+      }
+    },
+    "special_ability": "Direct damage of 4% of current fighting Strength"
+  },
+  {
+    "name": "Ashbrain",
+    "race": "dwarf",
+    "level_needed": null,
+    "premium": false,
+    "price": null,
+    "speed": 36,
+    "morale": 40,
+    "slots": {
+      "slot_1": {
+        "type": "infantry",
+        "capacity": 1000
+      },
+      "slot_2": {
+        "type": "infantry",
+        "capacity": 600
+      },
+      "slot_3": {
+        "type": "infantry",
+        "capacity": 600
+      }
+    },
+    "special_ability": "Direct damage of 4% of current fighting Strength"
+  }
 ]
