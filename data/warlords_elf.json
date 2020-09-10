@@ -23,7 +23,9 @@
     },
     "bonus": {
       "name": "Increases Fighting Strength of army by 15%",
-      "army_fight": 0.15
+      "army": {
+        "strength": 0.15
+      }
     }
   },
   {
@@ -159,7 +161,9 @@
     },
     "bonus": {
       "name": "Increases damage of the army by 25%",
-      "army_dmg": 0.25
+      "army": {
+        "dmg": 0.25
+      }
     }
   },
   {
@@ -214,7 +218,9 @@
     "bonus": {
       "name": "Increases damage by 3% for each of up to 20 friendly Warlords in a battle",
       "TODO": "Dunno how this should be done.",
-      "army_dmg": 0.03
+      "army": {
+        "dmg": 0.03
+      }
     }
   },
   {
@@ -350,7 +356,9 @@
     },
     "bonus": {
       "name": "Increases damage of the army by 25%",
-      "army_dmg": 0.25
+      "army": {
+        "dmg": 0.25
+      }
     }
   },
   {
@@ -485,7 +493,9 @@
     },
     "bonus": {
       "name": "Increases Fighting Strength of army by 15%",
-      "army_fight": 0.15
+      "army": {
+        "strength": 0.15
+      }
     }
   },
   {

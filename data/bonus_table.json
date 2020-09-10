@@ -4,11 +4,40 @@
   "dwarf": 0,
   "elf": 0,
   "goblin": 0,
-  "infantry": 0,
-  "cavalry": 0,
-  "artillery": 0,
-  "army_fight": 0,
-  "army_dmg": 0,
+  "infantry": {
+    "dmg": 0,
+    "strength": 0,
+    "capacity": 0
+  },
+  "cavalry": {
+    "dmg": 0,
+    "strength": 0,
+    "capacity": 0
+  },
+  "artillery": {
+    "dmg": 0,
+    "strength": 0,
+    "capacity": 0
+  },
+  "slot_1": {
+    "dmg": 0,
+    "strength": 0,
+    "capacity": 0
+  },
+  "slot_2": {
+    "dmg": 0,
+    "strength": 0,
+    "capacity": 0
+  },
+  "slot_3": {
+    "dmg": 0,
+    "strength": 0,
+    "capacity": 0
+  },
+  "army": {
+    "dmg": 0,
+    "strength": 0
+  },
   "xp": 0,
   "poison": 0,
   "resurrect": 0,
