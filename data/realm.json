@@ -1,12 +1,14 @@
 [
-  { "level": 83, "bonus": { "effect": "Orb production bonus", "value": 18, "type": "percentage" }},
-  { "level": 84, "bonus": { "effect": "Infantry production bonus", "value": 20, "type": "percentage" }},
-  { "level": 85, "bonus": { "effect": "Faster building construction", "value": 48, "type": "percentage" }},
-  { "level": 86, "bonus": { "effect": "Orb production bonus", "value": 21, "type": "percentage" }},
+  { "level": 83, "bonus": { "effect": "Orb production bonus", "value": 0.18, "type": "percentage" }},
+  { "level": 84, "bonus": { "effect": "Infantry production bonus", "value": 0.20, "type": "percentage" }},
+  { "level": 85, "bonus": { "effect": "Faster building construction", "value": 0.48, "type": "percentage" }},
+  { "level": 86, "bonus": { "effect": "Orb production bonus", "value": 0.21, "type": "percentage" }},
   { "level": 87, "bonus": { "effect": "24-hour boost on all Supplies", "value": 24, "type": "boost" }},
-  { "level": 88, "bonus": { "effect": "Faster building construction", "value": 51, "type": "percentage" }},
-  { "level": 89, "bonus": { "effect": "Orb production bonus", "value": 24, "type": "percentage" }},
-  { "level": 90, "bonus": { "effect": "Cavalry production bonus", "value": 20, "type": "percentage" }},
-  { "level": 91, "bonus": { "effect": "Faster building construction", "value": 54, "type": "percentage" }},
-  { "level": 92, "bonus": { "effect": "Orb production bonus", "value": 27, "type": "percentage" }},
+  { "level": 88, "bonus": { "effect": "Faster building construction", "value": 0.51, "type": "percentage" }},
+  { "level": 89, "bonus": { "effect": "Orb production bonus", "value": 0.24, "type": "percentage" }},
+  { "level": 90, "bonus": { "effect": "Cavalry production bonus", "value": 0.20, "type": "percentage" }},
+  { "level": 91, "bonus": { "effect": "Faster building construction", "value": 0.54, "type": "percentage" }},
+  { "level": 92, "bonus": { "effect": "Orb production bonus", "value": 0.27, "type": "percentage" }},
+  { "level": 93, "bonus": { "effect": "24-hour boost on all Supplies", "value": 24, "type": "boost" }},
+  { "level": 94, "bonus": { "effect": "Faster building construction", "value": 0.57, "type": "percentage" }}
 ]
