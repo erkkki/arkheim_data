@@ -4,10 +4,11 @@
     "race": "dwarf",
     "info": "Increases the production of iron in your Town",
     "unlock_level": 0,
-    "effect": {
-      "value": 4,
-      "type": "percentage",
-      "levels": 5
+    "levels": 5,
+    "bonus": {
+      "resources": {
+        "iron": 0.04
+      }
     }
   },
   {
@@ -15,10 +16,11 @@
     "race": "dwarf",
     "info": "Increases the initiative of your infantry",
     "unlock_level": 0,
-    "effect": {
-      "value": 1,
-      "type": "int",
-      "levels": 3
+    "levels": 3,
+    "bonus": {
+      "infantry": {
+        "initiative": 1
+      }
     }
   },
   {
@@ -26,10 +28,11 @@
     "race": "dwarf",
     "info": "Increases the production of crop in your Town",
     "unlock_level": 0,
-    "effect": {
-      "value": 3,
-      "type": "percentage",
-      "levels": 5
+    "levels": 5,
+    "bonus": {
+      "resources": {
+        "crop": 0.03
+      }
     }
   },
   {
@@ -37,10 +40,11 @@
     "race": "dwarf",
     "info": "Increases the production of wood in your Town",
     "unlock_level": 0,
-    "effect": {
-      "value": 3,
-      "type": "percentage",
-      "levels": 5
+    "levels": 5,
+    "bonus": {
+      "resources": {
+        "wood": 0.03
+      }
     }
   },
   {
@@ -48,10 +52,11 @@
     "race": "dwarf",
     "info": "Increases the Fighting Strength of units assigned to the first slot of each Warlord",
     "unlock_level": null,
-    "effect": {
-      "value": 2,
-      "type": "percentage",
-      "levels": 20
+    "levels": 20,
+    "bonus": {
+      "slot_1": {
+        "strength": 0.02
+      }
     }
   },
   {
@@ -59,10 +64,11 @@
     "race": "dwarf",
     "info": "Increases the Fighting Strength of your infantry",
     "unlock_level": null,
-    "effect": {
-      "value": 1,
-      "type": "percentage",
-      "levels": 20
+    "levels": 20,
+    "bonus": {
+      "infantry": {
+        "strength": 0.01
+      }
     }
   },
   {
@@ -70,10 +76,11 @@
     "race": "dwarf",
     "info": "Increases the initiative of your cavalry",
     "unlock_level": null,
-    "effect": {
-      "value": 3,
-      "type": "percentage",
-      "levels": 5
+    "levels": 5,
+    "bonus": {
+      "cavalry": {
+        "initiative": 1
+      }
     }
   },
   {
@@ -81,10 +88,11 @@
     "race": "dwarf",
     "info": "Increases the troop capacity for the first slot of each Warlord",
     "unlock_level": null,
-    "effect": {
-      "value": 4,
-      "type": "percentage",
-      "levels": 15
+    "levels": 15,
+    "bonus": {
+      "slot_1": {
+        "capacity": 0.04
+      }
     }
   },
   {
@@ -92,10 +100,9 @@
     "race": "dwarf",
     "info": "Increases your storage capacity",
     "unlock_level": null,
-    "effect": {
-      "value": 8,
-      "type": "percentage",
-      "levels": 5
+    "levels": 5,
+    "bonus": {
+      "storage": 0.08
     }
   },
   {
@@ -103,10 +110,11 @@
     "race": "dwarf",
     "info": "Increases the Fighting Strength of your units while fighting in the Dungeon",
     "unlock_level": null,
-    "effect": {
-      "value": 5,
-      "type": "percentage",
-      "levels": 5
+    "levels": 5,
+    "bonus": {
+      "dungeon": {
+        "strength": 0.05
+      }
     }
   },
   {
@@ -114,10 +122,11 @@
     "race": "dwarf",
     "info": "Increases the Fighting Strength of units assigned to the first slot of each Warlord",
     "unlock_level": null,
-    "effect": {
-      "value": 2,
-      "type": "percentage",
-      "levels": 20
+    "levels": 20,
+    "bonus": {
+      "slot_2": {
+        "strength": 0.02
+      }
     }
   },
   {
@@ -125,10 +134,11 @@
     "race": "dwarf",
     "info": "Increases the Fighting Strength of your cavalry",
     "unlock_level": null,
-    "effect": {
-      "value": 2,
-      "type": "percentage",
-      "levels": 20
+    "levels": 20,
+    "bonus": {
+      "cavalry": {
+        "strength": 0.02
+      }
     }
   },
   {
@@ -136,21 +146,23 @@
     "race": "dwarf",
     "info": "Increases the initiative of your artillery",
     "unlock_level": null,
-    "effect": {
-      "value": 1,
-      "type": "int",
-      "levels": 3
+    "levels": 3,
+    "bonus": {
+      "artillery": {
+        "initiative": 1
+      }
     }
   },
   {
     "name": "Slot 2: Capacity",
     "race": "dwarf",
-    "info": "Increases the the Fighting Strength of units assigned to the first slot of each Warlord",
+    "info": "Increases the the Fighting Strength of units assigned to the second slot of each Warlord",
     "unlock_level": null,
-    "effect": {
-      "value": 5,
-      "type": "percentage",
-      "levels": 15
+    "levels": 15,
+    "bonus": {
+      "slot_2": {
+        "strength": 0.05
+      }
     }
   },
   {
@@ -158,10 +170,9 @@
     "race": "dwarf",
     "info": "Faster building upgrade times in your Town",
     "unlock_level": null,
-    "effect": {
-      "value": 3,
-      "type": "percentage",
-      "levels": 3
+    "levels": 3,
+    "bonus": {
+      "construction_time": 0.03
     }
   },
   {
@@ -169,21 +180,23 @@
     "race": "dwarf",
     "info": "Increases the change of critical damage while fighting in the Dungeon",
     "unlock_level": null,
-    "effect": {
-      "value": 10,
-      "type": "percentage",
-      "levels": 5
+    "levels": 5,
+    "bonus": {
+      "dungeon": {
+        "critical": 0.1
+      }
     }
   },
   {
     "name": "Slot 3: Strength",
     "race": "dwarf",
-    "info": "Increases the Fighting Strength of units assigned to the first slot of each Warlord",
+    "info": "Increases the Fighting Strength of units assigned to the third slot of each Warlord",
     "unlock_level": null,
-    "effect": {
-      "value": 2,
-      "type": "percentage",
-      "levels": 20
+    "levels": 20,
+    "bonus": {
+      "slot_3": {
+        "strength": 0.02
+      }
     }
   },
   {
@@ -191,10 +204,11 @@
     "race": "dwarf",
     "info": "Increases the Fighting Strength of your artillery",
     "unlock_level": null,
-    "effect": {
-      "value": 1,
-      "type": "percentage",
-      "levels": 20
+    "levels": 20,
+    "bonus": {
+      "artillery": {
+        "strength": 0.01
+      }
     }
   },
   {
@@ -202,21 +216,23 @@
     "race": "dwarf",
     "info": "Increases the troop capacity for the artillery slot of each Warlord",
     "unlock_level": null,
-    "effect": {
-      "value": 3,
-      "type": "percentage",
-      "levels": 10
+    "levels": 10,
+    "bonus": {
+      "artillery": {
+        "capacity": 0.03
+      }
     }
   },
   {
     "name": "Slot 3: Capacity",
     "race": "dwarf",
-    "info": "Increases the Fighting Strength of units assigned to the first slot of each Warlord",
+    "info": "Increases the Fighting Strength of units assigned to the third slot of each Warlord",
     "unlock_level": null,
-    "effect": {
-      "value": 5,
-      "type": "percentage",
-      "levels": 15
+    "levels": 15,
+    "bonus": {
+      "slot_3": {
+        "capacity": 0.05
+      }
     }
   },
   {
@@ -224,10 +240,9 @@
     "race": "dwarf",
     "info": "Increases your storage capacity",
     "unlock_level": null,
-    "effect": {
-      "value": 4,
-      "type": "percentage",
-      "levels": 3
+    "levels": 3,
+    "bonus": {
+      "storage": 0.04
     }
   },
   {
@@ -235,10 +250,11 @@
     "race": "dwarf",
     "info": "Increases the resurrection of troops while fighting in the Dungeon",
     "unlock_level": null,
-    "effect": {
-      "value": 10,
-      "type": "percentage",
-      "levels": 3
+    "levels": 3,
+    "bonus": {
+      "dungeon": {
+        "resurrect": 0.1
+      }
     }
   },
   {
@@ -246,10 +262,11 @@
     "race": "dwarf",
     "info": "Increases the troop capacity for the infantry slot of each Warlord",
     "unlock_level": null,
-    "effect": {
-      "value": 3,
-      "type": "percentage",
-      "levels": 10
+    "levels": 10,
+    "bonus": {
+      "infantry": {
+        "capacity": 0.03
+      }
     }
   },
   {
@@ -257,10 +274,11 @@
     "race": "dwarf",
     "info": "Increases the troop capacity for the cavalry slot of each Warlord",
     "unlock_level": null,
-    "effect": {
-      "value": 3,
-      "type": "percentage",
-      "levels": 10
+    "levels": 10,
+    "bonus": {
+      "cavalry": {
+        "capacity": 0.03
+      }
     }
   },
   {
@@ -268,10 +286,11 @@
     "race": "dwarf",
     "info": "Faster training time for your cavalry",
     "unlock_level": null,
-    "effect": {
-      "value": 3,
-      "type": "percentage",
-      "levels": 20
+    "levels": 20,
+    "bonus": {
+      "cavalry": {
+        "training_time": 0.03
+      }
     }
   },
   {
@@ -279,10 +298,11 @@
     "race": "dwarf",
     "info": "Increases the Fighting Strength of your infantry",
     "unlock_level": null,
-    "effect": {
-      "value": 2,
-      "type": "percentage",
-      "levels": 2
+    "levels": 2,
+    "bonus": {
+      "infantry": {
+        "strength": 0.02
+      }
     }
   },
   {
@@ -290,10 +310,9 @@
     "race": "dwarf",
     "info": "Faster building upgrade times in your Town",
     "unlock_level": null,
-    "effect": {
-      "value": 3,
-      "type": "percentage",
-      "levels": 10
+    "levels": 10,
+    "bonus": {
+      "construction_time": 0.03
     }
   },
   {
@@ -301,10 +320,9 @@
     "race": "dwarf",
     "info": "Increases the Speed of your Warlords",
     "unlock_level": null,
-    "effect": {
-      "value": 1,
-      "type": "int",
-      "levels": 8
+    "levels": 8,
+    "bonus": {
+      "warlord_speed": 1
     }
   },
   {
@@ -312,10 +330,11 @@
     "race": "dwarf",
     "info": "Increases the Fighting Strength of your artillery",
     "unlock_level": null,
-    "effect": {
-      "value": 2,
-      "type": "percentage",
-      "levels": 2
+    "levels": 2,
+    "bonus": {
+      "artillery": {
+        "strength": 0.02
+      }
     }
   },
   {
@@ -323,10 +342,11 @@
     "race": "dwarf",
     "info": "Increases the Fighting Strength of your cavalry",
     "unlock_level": null,
-    "effect": {
-      "value": 2,
-      "type": "percentage",
-      "levels": 2
+    "levels": 2,
+    "bonus": {
+      "cavalry": {
+        "strength": 0.02
+      }
     }
   },
   {
@@ -334,10 +354,11 @@
     "race": "dwarf",
     "info": "Faster training time for your infantry",
     "unlock_level": null,
-    "effect": {
-      "value": 5,
-      "type": "percentage",
-      "levels": 5
+    "levels": 5,
+    "bonus": {
+      "infantry": {
+        "training_time": 0.05
+      }
     }
   },
   {
@@ -345,10 +366,11 @@
     "race": "dwarf",
     "info": "Faster training time for your artillery",
     "unlock_level": null,
-    "effect": {
-      "value": 3,
-      "type": "percentage",
-      "levels": 20
+    "levels": 20,
+    "bonus": {
+      "artillery": {
+        "training_time": 0.03
+      }
     }
   },
   {
@@ -356,10 +378,11 @@
     "race": "dwarf",
     "info": "Faster training time for your infantry",
     "unlock_level": null,
-    "effect": {
-      "value": 2,
-      "type": "percentage",
-      "levels": 20
+    "levels": 20,
+    "bonus": {
+      "infantry": {
+        "training_time": 0.02
+      }
     }
   }
 ]

@@ -2,12 +2,11 @@
   {
     "name": "Wood Production",
     "race": "elf",
-    "info": "Increases the production of iron in your Town",
+    "info": "Increases the production of wood in your Town",
     "unlock_level": 0,
-    "effect": {
-      "value": 4,
-      "type": "percentage",
-      "levels": 5
+    "levels": 5,
+    "bonus": {
+      "wood": 0.04
     }
   },
   {
@@ -15,21 +14,21 @@
     "race": "elf",
     "info": "Increases the Initiative of your infantry",
     "unlock_level": 0,
-    "effect": {
-      "value": 1,
-      "type": "int",
-      "levels": 5
+    "levels": 5,
+    "bonus": {
+      "infantry": {
+        "initiative": 1
+      }
     }
   },
   {
     "name": "Crop Production",
     "race": "elf",
-    "info": "Increases the production of iron in your Town",
+    "info": "Increases the production of crop in your Town",
     "unlock_level": 0,
-    "effect": {
-      "value": 3,
-      "type": "percentage",
-      "levels": 5
+    "levels": 5,
+    "bonus": {
+      "crop": 0.03
     }
   },
   {
@@ -37,10 +36,9 @@
     "race": "elf",
     "info": "Increases the production of iron in your Town",
     "unlock_level": 0,
-    "effect": {
-      "value": 3,
-      "type": "percentage",
-      "levels": 5
+    "levels": 5,
+    "bonus": {
+      "wood": 0.03
     }
   },
   {
@@ -48,10 +46,11 @@
     "race": "elf",
     "info": "Increases the resurrection of troops while fighting in the Dungeon",
     "unlock_level": 7,
-    "effect": {
-      "value": 10,
-      "type": "percentage",
-      "levels": 5
+    "levels": 5,
+    "bonus": {
+      "dungeon": {
+        "resurrect": 0.1
+      }
     }
   },
   {
@@ -59,10 +58,11 @@
     "race": "elf",
     "info": "Increases the Initiative of your Cavalry",
     "unlock_level": 7,
-    "effect": {
-      "value": 1,
-      "type": "int",
-      "levels": 5
+    "levels": 5,
+    "bonus": {
+      "cavalry": {
+        "initiative": 1
+      }
     }
   },
   {
@@ -70,10 +70,11 @@
     "race": "elf",
     "info": "Increases the Fighting Strength of your infantry",
     "unlock_level": 7,
-    "effect": {
-      "value": 1,
-      "type": "percentage",
-      "levels": 20
+    "levels": 20,
+    "bonus": {
+      "infantry": {
+        "strength": 0.01
+      }
     }
   },
   {
@@ -81,10 +82,11 @@
     "race": "elf",
     "info": "Increases the Fighting Strength of your infantry",
     "unlock_level": 7,
-    "effect": {
-      "value": 2,
-      "type": "percentage",
-      "levels": 2
+    "levels": 2,
+    "bonus": {
+      "infantry": {
+        "strength": 0.02
+      }
     }
   },
   {
@@ -92,10 +94,11 @@
     "race": "elf",
     "info": "Increases the Fighting Strength of units assigned to the first slot of each Warlord",
     "unlock_level": 7,
-    "effect": {
-      "value": 2,
-      "type": "percentage",
-      "levels": 20
+    "levels": 20,
+    "bonus": {
+      "slot_1": {
+        "strength": 0.02
+      }
     }
   },
   {
@@ -103,10 +106,9 @@
     "race": "elf",
     "info": "Increases your storage capacity",
     "unlock_level": 11,
-    "effect": {
-      "value": 6,
-      "type": "percentage",
-      "levels": 5
+    "levels": 5,
+    "bonus": {
+      "strength": 0.06
     }
   },
   {
@@ -114,10 +116,11 @@
     "race": "elf",
     "info": "Increases the troop capacity for the infantry slot of each Warlord",
     "unlock_level": 11,
-    "effect": {
-      "value": 3,
-      "type": "percentage",
-      "levels": 5
+    "levels": 5,
+    "bonus": {
+      "infantry": {
+        "capacity": 0.03
+      }
     }
   },
   {
@@ -125,21 +128,23 @@
     "race": "elf",
     "info": "Increases the troop capacity for the first slot of each Warlord",
     "unlock_level": 11,
-    "effect": {
-      "value": 3,
-      "type": "percentage",
-      "levels": 20
+    "levels": 20,
+    "bonus": {
+      "slot_1": {
+        "capacity": 0.03
+      }
     }
   },
   {
     "name": "Slot 2: Capacity",
     "race": "elf",
-    "info": "Increases the troop capacity for the first slot of each Warlord",
+    "info": "Increases the troop capacity for the second slot of each Warlord",
     "unlock_level": 11,
-    "effect": {
-      "value": 4,
-      "type": "percentage",
-      "levels": 20
+    "levels": 20,
+    "bonus": {
+      "slot_2": {
+        "capacity": 0.04
+      }
     }
   },
   {
@@ -147,10 +152,11 @@
     "race": "elf",
     "info": "Faster training time for your infantry",
     "unlock_level": 11,
-    "effect": {
-      "value": 2,
-      "type": "percentage",
-      "levels": 20
+    "levels": 20,
+    "bonus": {
+      "infantry": {
+        "training_time": 0.02
+      }
     }
   },
   {
@@ -162,6 +168,10 @@
       "value": 10,
       "type": "percentage",
       "levels": 3
+    },
+    "levels": 3,
+    "bonus": {
+      "storage": 0.1
     }
   },
   {
@@ -169,10 +179,11 @@
     "race": "elf",
     "info": "Increases the change of critical damage while fighting in the Dungeon",
     "unlock_level": 22,
-    "effect": {
-      "value": 10,
-      "type": "percentage",
-      "levels": 5
+    "levels": 5,
+    "bonus": {
+      "dungeon": {
+        "critical": 0.1
+      }
     }
   },
   {
@@ -180,10 +191,11 @@
     "race": "elf",
     "info": "Increases the initiative of your artillery",
     "unlock_level": 22,
-    "effect": {
-      "value": 1,
-      "type": "int",
-      "levels": 5
+    "levels": 5,
+    "bonus": {
+      "artillery": {
+        "initiative": 1
+      }
     }
   },
   {
@@ -191,10 +203,11 @@
     "race": "elf",
     "info": "Increases the Fighting Strength of your cavalry",
     "unlock_level": 22,
-    "effect": {
-      "value": 1,
-      "type": "percentage",
-      "levels": 20
+    "levels": 20,
+    "bonus": {
+      "cavalry": {
+        "strength": 0.01
+      }
     }
   },
   {
@@ -202,21 +215,23 @@
     "race": "elf",
     "info": "Increases the Fighting Strength of your cavalry",
     "unlock_level": 22,
-    "effect": {
-      "value": 2,
-      "type": "percentage",
-      "levels": 2
+    "levels": 2,
+    "bonus": {
+      "cavalry": {
+        "strength": 0.02
+      }
     }
   },
   {
     "name": "Slot 2: Strength",
     "race": "elf",
-    "info": "Increases the Fighting Strength of units assigned to the first slot of each Warlord",
+    "info": "Increases the Fighting Strength of units assigned to the second slot of each Warlord",
     "unlock_level": 22,
-    "effect": {
-      "value": 2,
-      "type": "percentage",
-      "levels": 20
+    "levels": 20,
+    "bonus": {
+      "slot_2": {
+        "strength": 0.02
+      }
     }
   },
   {
@@ -224,10 +239,9 @@
     "race": "elf",
     "info": "Faster building upgrade time in your Town",
     "unlock_level": 33,
-    "effect": {
-      "value": 4,
-      "type": "percentage",
-      "levels": 10
+    "levels": 10,
+    "bonus": {
+      "construction_time": 0.04
     }
   },
   {
@@ -235,10 +249,11 @@
     "race": "elf",
     "info": "Increases the troop capacity for the cavalry slot of each Warlord",
     "unlock_level": 33,
-    "effect": {
-      "value": 3,
-      "type": "percentage",
-      "levels": 5
+    "levels": 5,
+    "bonus": {
+      "cavalry": {
+        "capacity": 0.03
+      }
     }
   },
   {
@@ -246,21 +261,23 @@
     "race": "elf",
     "info": "Increases the troop capacity for the artillery slot of each Warlord",
     "unlock_level": 33,
-    "effect": {
-      "value": 3,
-      "type": "percentage",
-      "levels": 5
+    "levels": 5,
+    "bonus": {
+      "artillery": {
+        "capacity": 0.03
+      }
     }
   },
   {
-    "name": "Slot 2: Capacity",
+    "name": "Slot 3: Capacity",
     "race": "elf",
-    "info": "Increases the troop capacity for the third slot of each Warlord",
+    "info": "Increases the troop capacity for the second third of each Warlord",
     "unlock_level": 33,
-    "effect": {
-      "value": 4,
-      "type": "percentage",
-      "levels": 20
+    "levels": 20,
+    "bonus": {
+      "slot_2": {
+        "capacity": 0.04
+      }
     }
   },
   {
@@ -268,10 +285,9 @@
     "race": "elf",
     "info": "Increases the Speed of your Warlord",
     "unlock_level": 33,
-    "effect": {
-      "value": 1,
-      "type": "int",
-      "levels": 10
+    "levels": 10,
+    "bonus": {
+      "warlord_speed": 1
     }
   },
   {
@@ -279,10 +295,11 @@
     "race": "elf",
     "info": "Faster training time for your artillery",
     "unlock_level": 33,
-    "effect": {
-      "value": 4,
-      "type": "percentage",
-      "levels": 10
+    "levels": 10,
+    "bonus": {
+      "artillery": {
+        "training_time": 0.04
+      }
     }
   },
   {
@@ -290,10 +307,11 @@
     "race": "elf",
     "info": "Faster training time for your cavalry",
     "unlock_level": 33,
-    "effect": {
-      "value": 2,
-      "type": "percentage",
-      "levels": 20
+    "levels": 20,
+    "bonus": {
+      "cavalry": {
+        "training_time": 0.02
+      }
     }
   },
   {
@@ -301,10 +319,11 @@
     "race": "elf",
     "info": "Increases the Fighting Strength of your units while fighting in the Dungeon",
     "unlock_level": 44,
-    "effect": {
-      "value": 5,
-      "type": "percentage",
-      "levels": 3
+    "levels": 3,
+    "bonus": {
+      "dungeon": {
+        "strength": 0.05
+      }
     }
   },
   {
@@ -312,10 +331,11 @@
     "race": "elf",
     "info": "Increases the Fighting Strength of your artillery",
     "unlock_level": 44,
-    "effect": {
-      "value": 2,
-      "type": "percentage",
-      "levels": 2
+    "levels": 2,
+    "bonus": {
+      "artillery": {
+        "strength": 0.02
+      }
     }
   },
   {
@@ -323,10 +343,11 @@
     "race": "elf",
     "info": "Faster training time for your cavalry",
     "unlock_level": 44,
-    "effect": {
-      "value": 5,
-      "type": "percentage",
-      "levels": 5
+    "levels": 5,
+    "bonus": {
+      "cavalry": {
+        "training_time": 0.05
+      }
     }
   },
   {
@@ -334,10 +355,11 @@
     "race": "elf",
     "info": "Increases the Fighting Strength of your artillery",
     "unlock_level": 44,
-    "effect": {
-      "value": 1,
-      "type": "percentage",
-      "levels": 20
+    "levels": 20,
+    "bonus": {
+      "artillery": {
+        "strength": 0.01
+      }
     }
   },
   {
@@ -345,10 +367,11 @@
     "race": "elf",
     "info": "Increases the Fighting Strength of your artillery",
     "unlock_level": 44,
-    "effect": {
-      "value": 2,
-      "type": "percentage",
-      "levels": 2
+    "levels": 2,
+    "bonus": {
+      "artillery": {
+        "strength": 0.02
+      }
     }
   },
   {
@@ -356,10 +379,11 @@
     "race": "elf",
     "info": "Increases the Fighting Strength of units assigned to the first slot of each Warlord",
     "unlock_level": 22,
-    "effect": {
-      "value": 3,
-      "type": "percentage",
-      "levels": 20
+    "levels": 20,
+    "bonus": {
+      "slot_3": {
+        "strength": 0.03
+      }
     }
   }
 ]

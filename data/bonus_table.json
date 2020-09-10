@@ -4,40 +4,6 @@
   "dwarf": 0,
   "elf": 0,
   "goblin": 0,
-  "infantry": {
-    "dmg": 0,
-    "strength": 0,
-    "capacity": 0
-  },
-  "cavalry": {
-    "dmg": 0,
-    "strength": 0,
-    "capacity": 0
-  },
-  "artillery": {
-    "dmg": 0,
-    "strength": 0,
-    "capacity": 0
-  },
-  "slot_1": {
-    "dmg": 0,
-    "strength": 0,
-    "capacity": 0
-  },
-  "slot_2": {
-    "dmg": 0,
-    "strength": 0,
-    "capacity": 0
-  },
-  "slot_3": {
-    "dmg": 0,
-    "strength": 0,
-    "capacity": 0
-  },
-  "army": {
-    "dmg": 0,
-    "strength": 0
-  },
   "xp": 0,
   "poison": 0,
   "resurrect": 0,
@@ -45,5 +11,61 @@
   "critical": 0,
   "direct_dmg": 0,
   "burn": 0,
-  "dmg_decrease": 0
+  "dmg_decrease": 0,
+  "storage": 0,
+  "construction_time": 0,
+  "warlord_speed": 0,
+  "infantry": {
+    "dmg": 0,
+    "strength": 0,
+    "capacity": 0,
+    "initiative": 0,
+    "training_time": 0
+  },
+  "cavalry": {
+    "dmg": 0,
+    "strength": 0,
+    "capacity": 0,
+    "initiative": 0,
+    "training_time": 0
+  },
+  "artillery": {
+    "dmg": 0,
+    "strength": 0,
+    "capacity": 0,
+    "initiative": 0,
+    "training_time": 0
+  },
+  "slot_1": {
+    "dmg": 0,
+    "strength": 0,
+    "capacity": 0,
+    "initiative": 0
+  },
+  "slot_2": {
+    "dmg": 0,
+    "strength": 0,
+    "capacity": 0,
+    "initiative": 0
+  },
+  "slot_3": {
+    "dmg": 0,
+    "strength": 0,
+    "capacity": 0,
+    "initiative": 0
+  },
+  "army": {
+    "dmg": 0,
+    "strength": 0
+  },
+  "resources": {
+    "iron": 0,
+    "wood": 0,
+    "crop": 0
+  },
+  "dungeon": {
+    "resurrect": 0,
+    "critical": 0,
+    "strength": 0
+  }
 }
