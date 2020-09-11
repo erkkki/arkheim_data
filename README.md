@@ -12,13 +12,13 @@ Making it easy to start simple calculators or anything.
 ## Units
 ```js
 [{
-    "name": string,
-    "race": string, // dwarf / elf
-    "type": string, // infantry / cavalry / artillery
-    "fighting_strength": number,
-    "initiative": number,
+    "name": String,
+    "race": String, // dwarf / elf
+    "type": String, // infantry / cavalry / artillery
+    "fighting_strength": Number,
+    "initiative": Number,
     "special_ability": {
-      "name": string,
+      "name": String,
       "bonus": [
           false, // if attack bonus.
           false, // if defense bonus.
@@ -26,38 +26,38 @@ Making it easy to start simple calculators or anything.
           false, // if race bonus.
       ]
     },
-    "cost": { "wood": number, "iron": number, "crop": number },
-    "training_time": number // Seconds
+    "cost": { "wood": Number, "iron": Number, "crop": Number },
+    "training_time": Number // Seconds
 }, ...] 
 ```
 
 ## Warlords
 ```js
 [{
-    "name": string,
-    "level_needed": number,
+    "name": String,
+    "level_needed": Number,
     "premium": Boolean,
-    "price": number,
-    "speed": number,
-    "morale": number,
+    "price": Number,
+    "speed": Number,
+    "morale": Number,
     "slots": { // Type: infantry / cavalry / artillery
-      "slot_1": { "type": string, "capacity": number },
-      "slot_2": { "type": string, "capacity": number },
-      "slot_3": { "type": string, "capacity": number }
+      "slot_1": { "type": String, "capacity": Number },
+      "slot_2": { "type": String, "capacity": Number },
+      "slot_3": { "type": String, "capacity": Number }
     },
     "bonus": {
-        "name": string,
+        "name": String,
         // Rest are optional.
-        "dmg_decrease": number / percentage,
-        "xp": number / percentage,
-        "critical": number / percentage,
-        "army_strength": number / percentage,
-        "army_dmg": number / percentage,
-        "resurrect": number / percentage,
-        "poison": number / percentage,
-        "direct": number / percentage,
-        "burn": number,
-        "initiative": number
+        "dmg_decrease": Number,
+        "xp": Number,
+        "critical": Number,
+        "army_strength": Number,
+        "army_dmg": Number,
+        "resurrect": Number,
+        "poison": Number,
+        "direct": Number,
+        "burn": Number,
+        "initiative": Number
     }
 }, ...]
 ```
@@ -65,9 +65,9 @@ Making it easy to start simple calculators or anything.
 ## Masteries
 ```js
 [{
-    "name": string,
-    "info": string,
-    "unlock_level": number,
+    "name": String,
+    "info": String,
+    "unlock_level": Number,
     "bonus": {
         // See masteries_bonus.json for all values.
     }
@@ -77,15 +77,15 @@ Making it easy to start simple calculators or anything.
 ## Buildings
 ```js
 [{
-    "name": string,
-    "info": string,
-    "level_cap": number,
+    "name": String,
+    "info": String,
+    "level_cap": Number,
     "levels": [
       {
-        "level": number,
-        "build_time": number, // Seconds
-        "cost": { "wood": number, "iron": number, "crop": number },
-        "supply": number,
+        "level": Number,
+        "build_time": Number, // Seconds
+        "cost": { "wood": Number, "iron": Number, "crop": Number },
+        "supply": Number,
         "bonus": { ??? }
       }, ...]      
 }, ...]
@@ -94,11 +94,11 @@ Making it easy to start simple calculators or anything.
 ## Realm
 ```js
 [{ 
-    "level": number, 
+    "level": Number, 
     "bonus": { 
-        "effect": string, 
-        "value": number, 
-        "type": string // boost or percentage
+        "effect": String, 
+        "value": Number, 
+        "type": String
     }    
 }, ...]
 ```
