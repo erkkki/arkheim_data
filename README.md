@@ -122,11 +122,7 @@ Making it easy to start simple calculators or anything.
     - [ ] Infastructure
     - [ ] Military
     - [ ] Resources
-
 - [ ] Realm Bonuses
-- [ ] Images
-    - [ ] Units
-    - [ ] Warlords
-    - [ ] Masteries
+
 
 
