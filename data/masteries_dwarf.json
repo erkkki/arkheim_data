@@ -1,7 +1,6 @@
 [
   {
     "name": "Iron Production",
-    "race": "dwarf",
     "info": "Increases the production of iron in your Town",
     "unlock_level": 0,
     "levels": 5,
@@ -13,7 +12,6 @@
   },
   {
     "name": "Infantry initiative",
-    "race": "dwarf",
     "info": "Increases the initiative of your infantry",
     "unlock_level": 0,
     "levels": 3,
@@ -25,7 +23,6 @@
   },
   {
     "name": "Crop Production",
-    "race": "dwarf",
     "info": "Increases the production of crop in your Town",
     "unlock_level": 0,
     "levels": 5,
@@ -37,7 +34,6 @@
   },
   {
     "name": "Wood Production",
-    "race": "dwarf",
     "info": "Increases the production of wood in your Town",
     "unlock_level": 0,
     "levels": 5,
@@ -49,7 +45,6 @@
   },
   {
     "name": "Slot 1: Strength",
-    "race": "dwarf",
     "info": "Increases the Fighting Strength of units assigned to the first slot of each Warlord",
     "unlock_level": null,
     "levels": 20,
@@ -61,7 +56,6 @@
   },
   {
     "name": "Infantry Strength",
-    "race": "dwarf",
     "info": "Increases the Fighting Strength of your infantry",
     "unlock_level": null,
     "levels": 20,
@@ -73,7 +67,6 @@
   },
   {
     "name": "Cavalry Initiative",
-    "race": "dwarf",
     "info": "Increases the initiative of your cavalry",
     "unlock_level": null,
     "levels": 5,
@@ -85,7 +78,6 @@
   },
   {
     "name": "Slot 1: Capacity",
-    "race": "dwarf",
     "info": "Increases the troop capacity for the first slot of each Warlord",
     "unlock_level": null,
     "levels": 15,
@@ -97,7 +89,6 @@
   },
   {
     "name": "Storage Capacity",
-    "race": "dwarf",
     "info": "Increases your storage capacity",
     "unlock_level": null,
     "levels": 5,
@@ -107,7 +98,6 @@
   },
   {
     "name": "Dungeon Strength",
-    "race": "dwarf",
     "info": "Increases the Fighting Strength of your units while fighting in the Dungeon",
     "unlock_level": null,
     "levels": 5,
@@ -119,7 +109,6 @@
   },
   {
     "name": "Slot 2: Strength",
-    "race": "dwarf",
     "info": "Increases the Fighting Strength of units assigned to the first slot of each Warlord",
     "unlock_level": null,
     "levels": 20,
@@ -131,7 +120,6 @@
   },
   {
     "name": "Cavalry Strength",
-    "race": "dwarf",
     "info": "Increases the Fighting Strength of your cavalry",
     "unlock_level": null,
     "levels": 20,
@@ -143,7 +131,6 @@
   },
   {
     "name": "Artillery Initiative",
-    "race": "dwarf",
     "info": "Increases the initiative of your artillery",
     "unlock_level": null,
     "levels": 3,
@@ -155,7 +142,6 @@
   },
   {
     "name": "Slot 2: Capacity",
-    "race": "dwarf",
     "info": "Increases the the Fighting Strength of units assigned to the second slot of each Warlord",
     "unlock_level": null,
     "levels": 15,
@@ -167,7 +153,6 @@
   },
   {
     "name": "Building construction time",
-    "race": "dwarf",
     "info": "Faster building upgrade times in your Town",
     "unlock_level": null,
     "levels": 3,
@@ -177,7 +162,6 @@
   },
   {
     "name": "Dungeon critical damage",
-    "race": "dwarf",
     "info": "Increases the change of critical damage while fighting in the Dungeon",
     "unlock_level": null,
     "levels": 5,
@@ -189,7 +173,6 @@
   },
   {
     "name": "Slot 3: Strength",
-    "race": "dwarf",
     "info": "Increases the Fighting Strength of units assigned to the third slot of each Warlord",
     "unlock_level": null,
     "levels": 20,
@@ -201,7 +184,6 @@
   },
   {
     "name": "Artillery Strength",
-    "race": "dwarf",
     "info": "Increases the Fighting Strength of your artillery",
     "unlock_level": null,
     "levels": 20,
@@ -213,7 +195,6 @@
   },
   {
     "name": "Artillery Capacity",
-    "race": "dwarf",
     "info": "Increases the troop capacity for the artillery slot of each Warlord",
     "unlock_level": null,
     "levels": 10,
@@ -225,7 +206,6 @@
   },
   {
     "name": "Slot 3: Capacity",
-    "race": "dwarf",
     "info": "Increases the Fighting Strength of units assigned to the third slot of each Warlord",
     "unlock_level": null,
     "levels": 15,
@@ -237,7 +217,6 @@
   },
   {
     "name": "Storage Capacity",
-    "race": "dwarf",
     "info": "Increases your storage capacity",
     "unlock_level": null,
     "levels": 3,
@@ -247,7 +226,6 @@
   },
   {
     "name": "Dungeon resurrection",
-    "race": "dwarf",
     "info": "Increases the resurrection of troops while fighting in the Dungeon",
     "unlock_level": null,
     "levels": 3,
@@ -259,7 +237,6 @@
   },
   {
     "name": "Infantry Capacity",
-    "race": "dwarf",
     "info": "Increases the troop capacity for the infantry slot of each Warlord",
     "unlock_level": null,
     "levels": 10,
@@ -271,7 +248,6 @@
   },
   {
     "name": "Cavalry Capacity",
-    "race": "dwarf",
     "info": "Increases the troop capacity for the cavalry slot of each Warlord",
     "unlock_level": null,
     "levels": 10,
@@ -283,7 +259,6 @@
   },
   {
     "name": "Cavalry training time",
-    "race": "dwarf",
     "info": "Faster training time for your cavalry",
     "unlock_level": null,
     "levels": 20,
@@ -295,7 +270,6 @@
   },
   {
     "name": "Infantry Strength",
-    "race": "dwarf",
     "info": "Increases the Fighting Strength of your infantry",
     "unlock_level": null,
     "levels": 2,
@@ -307,7 +281,6 @@
   },
   {
     "name": "Building construction time",
-    "race": "dwarf",
     "info": "Faster building upgrade times in your Town",
     "unlock_level": null,
     "levels": 10,
@@ -317,7 +290,6 @@
   },
   {
     "name": "Warlord Speed",
-    "race": "dwarf",
     "info": "Increases the Speed of your Warlords",
     "unlock_level": null,
     "levels": 8,
@@ -327,7 +299,6 @@
   },
   {
     "name": "Artillery Strength",
-    "race": "dwarf",
     "info": "Increases the Fighting Strength of your artillery",
     "unlock_level": null,
     "levels": 2,
@@ -339,7 +310,6 @@
   },
   {
     "name": "Cavalry Strength",
-    "race": "dwarf",
     "info": "Increases the Fighting Strength of your cavalry",
     "unlock_level": null,
     "levels": 2,
@@ -351,7 +321,6 @@
   },
   {
     "name": "Infantry training time",
-    "race": "dwarf",
     "info": "Faster training time for your infantry",
     "unlock_level": null,
     "levels": 5,
@@ -363,7 +332,6 @@
   },
   {
     "name": "Artillery training time",
-    "race": "dwarf",
     "info": "Faster training time for your artillery",
     "unlock_level": null,
     "levels": 20,
@@ -375,7 +343,6 @@
   },
   {
     "name": "Infantry training time",
-    "race": "dwarf",
     "info": "Faster training time for your infantry",
     "unlock_level": null,
     "levels": 20,

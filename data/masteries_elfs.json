@@ -1,17 +1,17 @@
 [
   {
     "name": "Wood Production",
-    "race": "elf",
     "info": "Increases the production of wood in your Town",
     "unlock_level": 0,
     "levels": 5,
     "bonus": {
-      "wood": 0.04
+      "resources": {
+        "wood": 0.04
+      }
     }
   },
   {
     "name": "Infantry Initiative",
-    "race": "elf",
     "info": "Increases the Initiative of your infantry",
     "unlock_level": 0,
     "levels": 5,
@@ -23,27 +23,28 @@
   },
   {
     "name": "Crop Production",
-    "race": "elf",
     "info": "Increases the production of crop in your Town",
     "unlock_level": 0,
     "levels": 5,
     "bonus": {
-      "crop": 0.03
+      "resources": {
+        "crop": 0.03
+      }
     }
   },
   {
     "name": "Iron Production",
-    "race": "elf",
     "info": "Increases the production of iron in your Town",
     "unlock_level": 0,
     "levels": 5,
     "bonus": {
-      "wood": 0.03
+      "resources": {
+        "wood": 0.03
+      }
     }
   },
   {
     "name": "Dungeon resurrection",
-    "race": "elf",
     "info": "Increases the resurrection of troops while fighting in the Dungeon",
     "unlock_level": 7,
     "levels": 5,
@@ -55,7 +56,6 @@
   },
   {
     "name": "Cavalry Initiative",
-    "race": "elf",
     "info": "Increases the Initiative of your Cavalry",
     "unlock_level": 7,
     "levels": 5,
@@ -67,7 +67,6 @@
   },
   {
     "name": "Infantry Strength",
-    "race": "elf",
     "info": "Increases the Fighting Strength of your infantry",
     "unlock_level": 7,
     "levels": 20,
@@ -79,7 +78,6 @@
   },
   {
     "name": "Infantry Strength",
-    "race": "elf",
     "info": "Increases the Fighting Strength of your infantry",
     "unlock_level": 7,
     "levels": 2,
@@ -91,7 +89,6 @@
   },
   {
     "name": "Slot 1: Strength",
-    "race": "elf",
     "info": "Increases the Fighting Strength of units assigned to the first slot of each Warlord",
     "unlock_level": 7,
     "levels": 20,
@@ -103,17 +100,15 @@
   },
   {
     "name": "Storage Capacity",
-    "race": "elf",
     "info": "Increases your storage capacity",
     "unlock_level": 11,
     "levels": 5,
     "bonus": {
-      "strength": 0.06
+      "storage": 0.06
     }
   },
   {
     "name": "Infantry capacity",
-    "race": "elf",
     "info": "Increases the troop capacity for the infantry slot of each Warlord",
     "unlock_level": 11,
     "levels": 5,
@@ -125,7 +120,6 @@
   },
   {
     "name": "Slot 1: Capacity",
-    "race": "elf",
     "info": "Increases the troop capacity for the first slot of each Warlord",
     "unlock_level": 11,
     "levels": 20,
@@ -137,7 +131,6 @@
   },
   {
     "name": "Slot 2: Capacity",
-    "race": "elf",
     "info": "Increases the troop capacity for the second slot of each Warlord",
     "unlock_level": 11,
     "levels": 20,
@@ -149,7 +142,6 @@
   },
   {
     "name": "Infantry training time",
-    "race": "elf",
     "info": "Faster training time for your infantry",
     "unlock_level": 11,
     "levels": 20,
@@ -161,7 +153,6 @@
   },
   {
     "name": "Storage capacity",
-    "race": "elf",
     "info": "Increases your storage capacity",
     "unlock_level": 22,
     "effect": {
@@ -176,7 +167,6 @@
   },
   {
     "name": "Dungeon critical damage",
-    "race": "elf",
     "info": "Increases the change of critical damage while fighting in the Dungeon",
     "unlock_level": 22,
     "levels": 5,
@@ -188,7 +178,6 @@
   },
   {
     "name": "Artillery Initiative",
-    "race": "elf",
     "info": "Increases the initiative of your artillery",
     "unlock_level": 22,
     "levels": 5,
@@ -200,7 +189,6 @@
   },
   {
     "name": "Cavalry Strength",
-    "race": "elf",
     "info": "Increases the Fighting Strength of your cavalry",
     "unlock_level": 22,
     "levels": 20,
@@ -212,7 +200,6 @@
   },
   {
     "name": "Cavalry Strength",
-    "race": "elf",
     "info": "Increases the Fighting Strength of your cavalry",
     "unlock_level": 22,
     "levels": 2,
@@ -224,7 +211,6 @@
   },
   {
     "name": "Slot 2: Strength",
-    "race": "elf",
     "info": "Increases the Fighting Strength of units assigned to the second slot of each Warlord",
     "unlock_level": 22,
     "levels": 20,
@@ -236,7 +222,6 @@
   },
   {
     "name": "Building construction time",
-    "race": "elf",
     "info": "Faster building upgrade time in your Town",
     "unlock_level": 33,
     "levels": 10,
@@ -246,7 +231,6 @@
   },
   {
     "name": "Cavalry Capacity",
-    "race": "elf",
     "info": "Increases the troop capacity for the cavalry slot of each Warlord",
     "unlock_level": 33,
     "levels": 5,
@@ -258,7 +242,6 @@
   },
   {
     "name": "Artillery Capacity",
-    "race": "elf",
     "info": "Increases the troop capacity for the artillery slot of each Warlord",
     "unlock_level": 33,
     "levels": 5,
@@ -270,7 +253,6 @@
   },
   {
     "name": "Slot 3: Capacity",
-    "race": "elf",
     "info": "Increases the troop capacity for the second third of each Warlord",
     "unlock_level": 33,
     "levels": 20,
@@ -282,7 +264,6 @@
   },
   {
     "name": "Warlord Speed",
-    "race": "elf",
     "info": "Increases the Speed of your Warlord",
     "unlock_level": 33,
     "levels": 10,
@@ -292,7 +273,6 @@
   },
   {
     "name": "Artillery training time",
-    "race": "elf",
     "info": "Faster training time for your artillery",
     "unlock_level": 33,
     "levels": 10,
@@ -304,7 +284,6 @@
   },
   {
     "name": "Cavalry training time",
-    "race": "elf",
     "info": "Faster training time for your cavalry",
     "unlock_level": 33,
     "levels": 20,
@@ -316,7 +295,6 @@
   },
   {
     "name": "Dungeon Strength",
-    "race": "elf",
     "info": "Increases the Fighting Strength of your units while fighting in the Dungeon",
     "unlock_level": 44,
     "levels": 3,
@@ -328,7 +306,6 @@
   },
   {
     "name": "Artillery Strength",
-    "race": "elf",
     "info": "Increases the Fighting Strength of your artillery",
     "unlock_level": 44,
     "levels": 2,
@@ -340,7 +317,6 @@
   },
   {
     "name": "Cavalry training time",
-    "race": "elf",
     "info": "Faster training time for your cavalry",
     "unlock_level": 44,
     "levels": 5,
@@ -352,7 +328,6 @@
   },
   {
     "name": "Artillery Strength",
-    "race": "elf",
     "info": "Increases the Fighting Strength of your artillery",
     "unlock_level": 44,
     "levels": 20,
@@ -364,7 +339,6 @@
   },
   {
     "name": "Artillery Strength",
-    "race": "elf",
     "info": "Increases the Fighting Strength of your artillery",
     "unlock_level": 44,
     "levels": 2,
@@ -376,7 +350,6 @@
   },
   {
     "name": "Slot 3: Strength",
-    "race": "elf",
     "info": "Increases the Fighting Strength of units assigned to the first slot of each Warlord",
     "unlock_level": 22,
     "levels": 20,

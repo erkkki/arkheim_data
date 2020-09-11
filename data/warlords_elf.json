@@ -1,7 +1,6 @@
 [
   {
     "name": "Equinox",
-    "race": "elf",
     "level_needed": 0,
     "premium": false,
     "price": 0,
@@ -23,14 +22,11 @@
     },
     "bonus": {
       "name": "Increases Fighting Strength of army by 15%",
-      "army": {
-        "strength": 0.15
-      }
+      "army_strength": 0.15
     }
   },
   {
     "name": "Sinuo",
-    "race": "elf",
     "level_needed": 0,
     "premium": true,
     "price": 350,
@@ -52,12 +48,11 @@
     },
     "bonus": {
       "name": "Increases XP gainer by 60%",
-      "xp": 0.5
+      "xp": 0.6
     }
   },
   {
     "name": "Acidious",
-    "race": "elf",
     "level_needed": 0,
     "premium": false,
     "price": 0,
@@ -84,7 +79,6 @@
   },
   {
     "name": "Viaticus",
-    "race": "elf",
     "level_needed": 7,
     "premium": false,
     "price": 0,
@@ -111,7 +105,6 @@
   },
   {
     "name": "Arilla",
-    "race": "elf",
     "level_needed": 11,
     "premium": true,
     "price": 400,
@@ -139,7 +132,6 @@
   },
   {
     "name": "Cicatrix",
-    "race": "elf",
     "level_needed": 16,
     "premium": false,
     "price": 0,
@@ -161,14 +153,11 @@
     },
     "bonus": {
       "name": "Increases damage of the army by 25%",
-      "army": {
-        "dmg": 0.25
-      }
+      "army_dmg": 0.25
     }
   },
   {
     "name": "Alabastros",
-    "race": "elf",
     "level_needed": 21,
     "premium": true,
     "price": 450,
@@ -195,7 +184,6 @@
   },
   {
     "name": "Cerulean",
-    "race": "elf",
     "level_needed": 26,
     "premium": false,
     "price": 0,
@@ -218,14 +206,11 @@
     "bonus": {
       "name": "Increases damage by 3% for each of up to 20 friendly Warlords in a battle",
       "TODO": "Dunno how this should be done.",
-      "army": {
-        "dmg": 0.03
-      }
+      "army_dmg": 0.03
     }
   },
   {
     "name": "Vortex",
-    "race": "elf",
     "level_needed": 31,
     "premium": true,
     "price": 500,
@@ -252,7 +237,6 @@
   },
   {
     "name": "Robinian",
-    "race": "elf",
     "level_needed": 36,
     "premium": false,
     "price": 0,
@@ -274,12 +258,11 @@
     },
     "bonus": {
       "name": "Direct damage of 4% of current Fighting Strength",
-      "direct_dmg": 0.04
+      "direct": 0.04
     }
   },
   {
     "name": "Bilice",
-    "race": "elf",
     "level_needed": 41,
     "premium": true,
     "price": 550,
@@ -307,7 +290,6 @@
   },
   {
     "name": "Serratan",
-    "race": "elf",
     "level_needed": 46,
     "premium": false,
     "price": 0,
@@ -334,7 +316,6 @@
   },
   {
     "name": "Pavorex",
-    "race": "elf",
     "level_needed": 51,
     "premium": true,
     "price": 600,
@@ -356,14 +337,11 @@
     },
     "bonus": {
       "name": "Increases damage of the army by 25%",
-      "army": {
-        "dmg": 0.25
-      }
+      "army_dmg": 0.25
     }
   },
   {
     "name": "Ceras",
-    "race": "elf",
     "level_needed": 56,
     "premium": false,
     "price": 0,
@@ -390,7 +368,6 @@
   },
   {
     "name": "Radix",
-    "race": "elf",
     "level_needed": 61,
     "premium": true,
     "price": 650,
@@ -412,12 +389,11 @@
     },
     "bonus": {
       "name": "Direct damage of 4% of current Fighting Strength",
-      "direct_dmg": 0.04
+      "direct": 0.04
     }
   },
   {
     "name": "Candidos",
-    "race": "elf",
     "level_needed": 66,
     "premium": false,
     "price": 0,
@@ -444,7 +420,6 @@
   },
   {
     "name": "Algus",
-    "race": "elf",
     "level_needed": 71,
     "premium": true,
     "price": 700,
@@ -471,7 +446,6 @@
   },
   {
     "name": "Aurora",
-    "race": "elf",
     "level_needed": 76,
     "premium": false,
     "price": 0,
@@ -493,14 +467,11 @@
     },
     "bonus": {
       "name": "Increases Fighting Strength of army by 15%",
-      "army": {
-        "strength": 0.15
-      }
+      "army_strength": 0.15
     }
   },
   {
     "name": "Nacris",
-    "race": "elf",
     "level_needed": 81,
     "premium": true,
     "price": 750,
@@ -527,7 +498,6 @@
   },
   {
     "name": "Coron",
-    "race": "elf",
     "level_needed": 86,
     "premium": false,
     "price": 0,
@@ -554,7 +524,6 @@
   },
   {
     "name": "Mollus",
-    "race": "elf",
     "level_needed": 91,
     "premium": true,
     "price": 800,
@@ -581,7 +550,6 @@
   },
   {
     "name": "Aphace",
-    "race": "elf",
     "level_needed": 96,
     "premium": false,
     "price": 0,

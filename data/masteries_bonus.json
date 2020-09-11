@@ -1,17 +1,4 @@
 {
-  "attack": 0,
-  "defense": 0,
-  "dwarf": 0,
-  "elf": 0,
-  "goblin": 0,
-  "xp": 0,
-  "poison": 0,
-  "resurrect": 0,
-  "initiative": 0,
-  "critical": 0,
-  "direct_dmg": 0,
-  "burn": 0,
-  "dmg_decrease": 0,
   "storage": 0,
   "construction_time": 0,
   "warlord_speed": 0,
@@ -53,10 +40,6 @@
     "strength": 0,
     "capacity": 0,
     "initiative": 0
-  },
-  "army": {
-    "dmg": 0,
-    "strength": 0
   },
   "resources": {
     "iron": 0,

@@ -1,7 +1,6 @@
 [
   {
     "name": "Staunchbraid",
-    "race": "dwarf",
     "level_needed": null,
     "premium": false,
     "price": null,
@@ -28,7 +27,6 @@
   },
   {
     "name": "Runehead",
-    "race": "dwarf",
     "level_needed": null,
     "premium": true,
     "price": null,
@@ -55,7 +53,6 @@
   },
   {
     "name": "Wetbeard",
-    "race": "dwarf",
     "level_needed": null,
     "premium": false,
     "price": null,
@@ -82,7 +79,6 @@
   },
   {
     "name": "Lightsmith",
-    "race": "dwarf",
     "level_needed": null,
     "premium": false,
     "price": null,
@@ -104,14 +100,11 @@
     },
     "bonus": {
       "name": "Increases Fighting Strength of army by 15%",
-      "army": {
-        "strength": 0.15
-      }
+      "army_strength": 0.15
     }
   },
   {
     "name": "Redswirl",
-    "race": "dwarf",
     "level_needed": null,
     "premium": true,
     "price": null,
@@ -133,14 +126,11 @@
     },
     "bonus": {
       "name": "Increases Fighting Strength of army by 15%",
-      "army": {
-        "strength": 0.15
-      }
+      "army_strength": 0.15
     }
   },
   {
     "name": "Stormseer",
-    "race": "dwarf",
     "level_needed": null,
     "premium": false,
     "price": null,
@@ -167,7 +157,6 @@
   },
   {
     "name": "Arksnout",
-    "race": "dwarf",
     "level_needed": null,
     "premium": true,
     "price": null,
@@ -194,7 +183,6 @@
   },
   {
     "name": "Trankard",
-    "race": "dwarf",
     "level_needed": null,
     "premium": false,
     "price": null,
@@ -216,14 +204,11 @@
     },
     "bonus": {
       "name": "Increases damage by 3% for each of up to 20 friendly Warlords in a battle",
-      "army": {
-        "dmg": 0.03
-      }
+      "army_dmg": 0.03
     }
   },
   {
     "name": "Rubyheart",
-    "race": "dwarf",
     "level_needed": null,
     "premium": false,
     "price": null,
@@ -250,7 +235,6 @@
   },
   {
     "name": "Bearbrawler",
-    "race": "dwarf",
     "level_needed": null,
     "premium": false,
     "price": null,
@@ -272,12 +256,11 @@
     },
     "bonus": {
       "name": "One burn stack per turn Each does 1000 damage",
-      "direct_dmg": 1000
+      "burn": 1000
     }
   },
   {
     "name": "Hammerskull",
-    "race": "dwarf",
     "level_needed": null,
     "premium": true,
     "price": null,
@@ -304,7 +287,6 @@
   },
   {
     "name": "Ashbrain",
-    "race": "dwarf",
     "level_needed": null,
     "premium": false,
     "price": null,
@@ -331,7 +313,6 @@
   },
   {
     "name": "Crystalsight",
-    "race": "dwarf",
     "level_needed": null,
     "premium": true,
     "price": null,
@@ -353,12 +334,11 @@
     },
     "bonus": {
       "name": "One burn stack per turn Each does 1000 damage",
-      "direct_dmg": 1000
+      "burn": 1000
     }
   },
   {
     "name": "Sleekcheeks",
-    "race": "dwarf",
     "level_needed": null,
     "premium": false,
     "price": null,
@@ -385,7 +365,6 @@
   },
   {
     "name": "Lawbringer",
-    "race": "dwarf",
     "level_needed": null,
     "premium": true,
     "price": null,
@@ -407,12 +386,11 @@
     },
     "bonus": {
       "name": "Direct damage of 4% of current Fighting Strength",
-      "direct_dmg": 0.04
+      "direct": 0.04
     }
   },
   {
     "name": "Paintsmith",
-    "race": "dwarf",
     "level_needed": null,
     "premium": false,
     "price": null,
@@ -439,7 +417,6 @@
   },
   {
     "name": "Dragonbreath",
-    "race": "dwarf",
     "level_needed": null,
     "premium": true,
     "price": null,
@@ -461,14 +438,11 @@
     },
     "bonus": {
       "name": "Increases Fighting Strength of army by 15%",
-      "army": {
-        "strength": 0.15
-      }
+      "army_strength": 0.15
     }
   },
   {
     "name": "Ebbel",
-    "race": "dwarf",
     "level_needed": null,
     "premium": false,
     "price": null,
@@ -495,7 +469,6 @@
   },
   {
     "name": "Zorbas",
-    "race": "dwarf",
     "level_needed": null,
     "premium": true,
     "price": null,
@@ -522,7 +495,6 @@
   },
   {
     "name": "Maklaven",
-    "race": "dwarf",
     "level_needed": null,
     "premium": false,
     "price": null,
@@ -544,14 +516,11 @@
     },
     "bonus": {
       "name": "Increases damage of the army by 25%",
-      "army": {
-        "dmg": 0.25
-      }
+      "army_dmg": 0.25
     }
   },
   {
     "name": "Silkskull",
-    "race": "dwarf",
     "level_needed": null,
     "premium": true,
     "price": null,
@@ -578,7 +547,6 @@
   },
   {
     "name": "Darrak",
-    "race": "dwarf",
     "level_needed": null,
     "premium": false,
     "price": null,
