@@ -8,6 +8,27 @@ Easy to load / access to basic data for everyone.
 Most programming languages can easily convert json to array / object.
 
 Making it easy to start simple calculators or anything.
+## Dist folder has minifield versions of main json data fiels
+arkheim.json Combined data file.
+```js
+{
+    "units": {
+        "elf":    list of units
+        "dwarf":  list of units
+    },
+    "masteries": {
+        "elf":    list of masteries
+        "dwarf":  list of masteries
+    },
+    "warlords": {
+        "elf":    list of warlords
+        "dwarf":  list of warlords
+    }
+}
+```
+
+
+
 
 ## Units
 ```js
