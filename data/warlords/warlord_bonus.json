@@ -1,0 +1,12 @@
+{
+  "army_strength": 0.15,
+  "army_dmg": 0.03,
+  "dmg_decrease": 0.35,
+  "xp": 0.6,
+  "critical": 0.5,
+  "resurrect": 0.35,
+  "poison": 0.02,
+  "direct": 0.04,
+  "burn": 1000,
+  "initiative": 5
+}

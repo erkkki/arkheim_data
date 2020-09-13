@@ -412,7 +412,7 @@
     },
     "bonus": {
       "name": "Increases XP gained by 5% for every other Warlord in a battle",
-      "xp": 1
+      "xp": 0.05
     }
   },
   {
