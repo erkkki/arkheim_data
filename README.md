@@ -38,14 +38,17 @@ arkheim.json Combined data file.
     "type": String, // infantry / cavalry / artillery
     "fighting_strength": Number,
     "initiative": Number,
-    "special_ability": {
+    "bonus": {
       "name": String,
-      "bonus": [
-          false, // if attack bonus.
-          false, // if defense bonus.
-          false, // if unit type bonus.
-          false, // if race bonus.
-      ]
+      // Rest are optional
+      "goblin": Number,
+      "dwarf": Number,
+      "elf": Number,
+      "attack": Number,
+      "deff": Number,
+      "infantry": Number,
+      "cavalry": Number,
+      "artillery": Number
     },
     "cost": { "wood": Number, "iron": Number, "crop": Number },
     "training_time": Number // Seconds

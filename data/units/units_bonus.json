@@ -1,0 +1,10 @@
+{
+  "goblin": 0.5,
+  "dwarf": 0.35,
+  "elf": 0.35,
+  "attack": 0.35,
+  "deff": 0.35,
+  "infantry": 0.5,
+  "cavalry": 0.5,
+  "artillery": 0.5
+}

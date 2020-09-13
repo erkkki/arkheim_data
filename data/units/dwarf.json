@@ -5,16 +5,9 @@
     "type": "infantry",
     "fighting_strength": 30,
     "initiative": 6,
-    "special_ability": {
+    "bonus": {
       "name": "+50% Fighting Strength vs Goblins",
-      "bonus": [
-        false,
-        false,
-        {
-          "goblin": 0.5
-        },
-        false
-      ]
+      "goblin": 0.5
     },
     "cost": {
       "wood": 60,
@@ -29,14 +22,9 @@
     "type": "infantry",
     "fighting_strength": 35,
     "initiative": 10,
-    "special_ability": {
+    "bonus": {
       "name": "+35% Fighting Strength when attacking",
-      "bonus": [
-        0.35,
-        false,
-        false,
-        false
-      ]
+      "attack": 0.35
     },
     "cost": {
       "wood": 120,
@@ -51,16 +39,9 @@
     "type": "infantry",
     "fighting_strength": 45,
     "initiative": 18,
-    "special_ability": {
+    "bonus": {
       "name": "+50% Fighting Strength vs cavalry",
-      "bonus": [
-        false,
-        false,
-        {
-          "cavalry": 0.5
-        },
-        false
-      ]
+      "cavalry": 0.5
     },
     "cost": {
       "wood": 120,
@@ -75,16 +56,9 @@
     "type": "infantry",
     "fighting_strength": 65,
     "initiative": 12,
-    "special_ability": {
+    "bonus": {
       "name": "+35% damage against Elves",
-      "bonus": [
-        false,
-        false,
-        false,
-        {
-          "elf": 0.35
-        }
-      ]
+      "elf": 0.35
     },
     "cost": {
       "wood": 400,
@@ -99,16 +73,9 @@
     "type": "infantry",
     "fighting_strength": 90,
     "initiative": 8,
-    "special_ability": {
+    "bonus": {
       "name": "+50% Fighting Strength vs artillery",
-      "bonus": [
-        false,
-        false,
-        {
-          "artillery": 0.5
-        },
-        false
-      ]
+      "artillery": 0.5
     },
     "cost": {
       "wood": 750,
@@ -123,16 +90,9 @@
     "type": "cavalry",
     "fighting_strength": 80,
     "initiative": 20,
-    "special_ability": {
+    "bonus": {
       "name": "+50% Fighting Strength vs cavalry",
-      "bonus": [
-        false,
-        false,
-        {
-          "cavalry": 0.5
-        },
-        false
-      ]
+      "cavalry": 0.5
     },
     "cost": {
       "wood": 100,
@@ -147,16 +107,9 @@
     "type": "cavalry",
     "fighting_strength": 140,
     "initiative": 12,
-    "special_ability": {
+    "bonus": {
       "name": "+50% Fighting Strength vs infantry",
-      "bonus": [
-        false,
-        false,
-        {
-          "infantry": 0.5
-        },
-        false
-      ]
+      "infantry": 0.5
     },
     "cost": {
       "wood": 1280,
@@ -171,16 +124,9 @@
     "type": "artillery",
     "fighting_strength": 200,
     "initiative": 16,
-    "special_ability": {
+    "bonus": {
       "name": "+50% Fighting Strength vs artillery",
-      "bonus": [
-        false,
-        false,
-        {
-          "artillery": 0.5
-        },
-        false
-      ]
+      "artillery": 0.5
     },
     "cost": {
       "wood": 600,
@@ -195,16 +141,9 @@
     "type": "artillery",
     "fighting_strength": 325,
     "initiative": 25,
-    "special_ability": {
+    "bonus": {
       "name": "+35% damage against dwarfes",
-      "bonus": [
-        false,
-        false,
-        false,
-        {
-          "dwarf": 0.35
-        }
-      ]
+      "dwarf": 0.35
     },
     "cost": {
       "wood": 3250,
@@ -219,14 +158,9 @@
     "type": "artillery",
     "fighting_strength": 450,
     "initiative": 20,
-    "special_ability": {
+    "bonus": {
       "name": "+35% Fighting Strength when defending",
-      "bonus": [
-        false,
-        0.35,
-        false,
-        false
-      ]
+      "deff": 0.35
     },
     "cost": {
       "wood": 3250,
