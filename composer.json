@@ -2,6 +2,7 @@
     "name": "erkkki/arkheim_data",
     "description": "Arkheim data",
     "version": "0.9.0",
+    "license": "MIT",
     "authors": [
         {
             "name": "Joonas",
