@@ -6,7 +6,7 @@
     "price": 0,
     "speed": 50,
     "morale": 40,
-    "slots": {
+    "army": {
       "slot_1": {
         "type": "infantry",
         "capacity": 500
@@ -32,7 +32,7 @@
     "price": 350,
     "speed": 46,
     "morale": 35,
-    "slots": {
+    "army": {
       "slot_1": {
         "type": "infantry",
         "capacity": 400
@@ -47,7 +47,7 @@
       }
     },
     "bonus": {
-      "name": "Increases XP gainer by 60%",
+      "name": "Increases XP gained by 60%",
       "xp": 0.6
     }
   },
@@ -58,7 +58,7 @@
     "price": 0,
     "speed": 36,
     "morale": 55,
-    "slots": {
+    "army": {
       "slot_1": {
         "type": "infantry",
         "capacity": 400
@@ -73,7 +73,7 @@
       }
     },
     "bonus": {
-      "name": "One poison stack per turn Each kills 2% of units",
+      "name": "Poisons the enemy each turn. With each poisoning, 2% of the troops are killed.",
       "poison": 0.02
     }
   },
@@ -84,7 +84,7 @@
     "price": 0,
     "speed": 40,
     "morale": 45,
-    "slots": {
+    "army": {
       "slot_1": {
         "type": "infantry",
         "capacity": 600
@@ -110,7 +110,7 @@
     "price": 400,
     "speed": 34,
     "morale": 60,
-    "slots": {
+    "army": {
       "slot_1": {
         "type": "infantry",
         "capacity": 500
@@ -125,8 +125,7 @@
       }
     },
     "bonus": {
-      "name": "Increases initiative by 1 for every other Warlord in a battle",
-      "TODO": "Dunno how this should be done.",
+      "name": "Each allied Warlord increases this army's Initiative by 1.",
       "initiative": 1
     }
   },
@@ -137,7 +136,7 @@
     "price": 0,
     "speed": 44,
     "morale": 35,
-    "slots": {
+    "army": {
       "slot_1": {
         "type": "infantry",
         "capacity": 600
@@ -163,7 +162,7 @@
     "price": 450,
     "speed": 38,
     "morale": 40,
-    "slots": {
+    "army": {
       "slot_1": {
         "type": "infantry",
         "capacity": 725
@@ -189,7 +188,7 @@
     "price": 0,
     "speed": 36,
     "morale": 55,
-    "slots": {
+    "army": {
       "slot_1": {
         "type": "cavalry",
         "capacity": 450
@@ -204,8 +203,7 @@
       }
     },
     "bonus": {
-      "name": "Increases damage by 3% for each of up to 20 friendly Warlords in a battle",
-      "TODO": "Dunno how this should be done.",
+      "name": "Each allied Warlord increases this army's damage by 3% up to 60%",
       "army_dmg": 0.03
     }
   },
@@ -216,7 +214,7 @@
     "price": 500,
     "speed": 44,
     "morale": 35,
-    "slots": {
+    "army": {
       "slot_1": {
         "type": "infantry",
         "capacity": 1000
@@ -242,7 +240,7 @@
     "price": 0,
     "speed": 34,
     "morale": 50,
-    "slots": {
+    "army": {
       "slot_1": {
         "type": "infantry",
         "capacity": 550
@@ -268,7 +266,7 @@
     "price": 550,
     "speed": 28,
     "morale": 70,
-    "slots": {
+    "army": {
       "slot_1": {
         "type": "infantry",
         "capacity": 600
@@ -283,8 +281,7 @@
       }
     },
     "bonus": {
-      "name": "Increases XP gained by 5% for every other Warlord in a battle",
-      "TODO": "Dunno how this should be done.",
+      "name": "Each allied Warlord increases this army's XP by 5% up to 100%",
       "xp": 0.05
     }
   },
@@ -295,7 +292,7 @@
     "price": 0,
     "speed": 32,
     "morale": 40,
-    "slots": {
+    "army": {
       "slot_1": {
         "type": "cavalry",
         "capacity": 325
@@ -310,7 +307,7 @@
       }
     },
     "bonus": {
-      "name": "One poison stack per turn Each kills 2% of units",
+      "name": "Poisons the enemy each turn. With each poisoning, 2% of the troops are killed.",
       "poison": 0.02
     }
   },
@@ -321,7 +318,7 @@
     "price": 600,
     "speed": 28,
     "morale": 60,
-    "slots": {
+    "army": {
       "slot_1": {
         "type": "infantry",
         "capacity": 650
@@ -347,7 +344,7 @@
     "price": 0,
     "speed": 35,
     "morale": 50,
-    "slots": {
+    "army": {
       "slot_1": {
         "type": "artillery",
         "capacity": 200
@@ -362,7 +359,7 @@
       }
     },
     "bonus": {
-      "name": "One burn stack per turn each does 1000 damage",
+      "name": "Burns the enemy each turn. With each burning, 1000 damage is dealt.",
       "burn": 1000
     }
   },
@@ -373,7 +370,7 @@
     "price": 650,
     "speed": 32,
     "morale": 35,
-    "slots": {
+    "army": {
       "slot_1": {
         "type": "cavalry",
         "capacity": 450
@@ -399,7 +396,7 @@
     "price": 0,
     "speed": 35,
     "morale": 45,
-    "slots": {
+    "army": {
       "slot_1": {
         "type": "infantry",
         "capacity": 800
@@ -425,7 +422,7 @@
     "price": 700,
     "speed": 38,
     "morale": 50,
-    "slots": {
+    "army": {
       "slot_1": {
         "type": "artillery",
         "capacity": 222
@@ -451,7 +448,7 @@
     "price": 0,
     "speed": 34,
     "morale": 60,
-    "slots": {
+    "army": {
       "slot_1": {
         "type": "infantry",
         "capacity": 1000
@@ -477,7 +474,7 @@
     "price": 750,
     "speed": 33,
     "morale": 50,
-    "slots": {
+    "army": {
       "slot_1": {
         "type": "cavalry",
         "capacity": 500
@@ -503,7 +500,7 @@
     "price": 0,
     "speed": 38,
     "morale": 45,
-    "slots": {
+    "army": {
       "slot_1": {
         "type": "infantry",
         "capacity": 580
@@ -518,7 +515,7 @@
       }
     },
     "bonus": {
-      "name": "One poison stack per turn Each kills 2% of units",
+      "name": "Poisons the enemy each turn. With each poisoning, 2% of the troops are killed.",
       "poison": 0.02
     }
   },
@@ -529,7 +526,7 @@
     "price": 800,
     "speed": 30,
     "morale": 55,
-    "slots": {
+    "army": {
       "slot_1": {
         "type": "cavalry",
         "capacity": 433
@@ -555,7 +552,7 @@
     "price": 0,
     "speed": 27,
     "morale": 45,
-    "slots": {
+    "army": {
       "slot_1": {
         "type": "artillery",
         "capacity": 250

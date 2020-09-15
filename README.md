@@ -64,7 +64,7 @@ arkheim.json Combined data file.
     "price": Number,
     "speed": Number,
     "morale": Number,
-    "slots": { // Type: infantry / cavalry / artillery
+    "army": {
       "slot_1": { "type": String, "capacity": Number },
       "slot_2": { "type": String, "capacity": Number },
       "slot_3": { "type": String, "capacity": Number }
@@ -120,9 +120,16 @@ arkheim.json Combined data file.
 [{ 
     "level": Number, 
     "bonus": { 
-        "effect": String, 
-        "value": Number, 
-        "type": String
+        "name": String, 
+        // optional bonus 
+        "xp": Number,
+        "resource": Number,
+        "construction_time": Number,
+        "orbs": Boolean,
+        "souls": Number,
+        "infantry": Number,
+        "cavalry": Number,
+        "artillery": Number        
     }    
 }, ...]
 ```
