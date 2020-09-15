@@ -1,6 +1,7 @@
 {
     "name": "erkhe/arkheim_data",
     "description": "Arkheim data",
+    "version": "0.9.0",
     "authors": [
         {
             "name": "Joonas",
