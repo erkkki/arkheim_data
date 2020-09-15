@@ -3,9 +3,6 @@
 Basic unit / warlord / mastery data from [arkheim](https://arkheim.com/) game. 
 
 
-[![Latest Stable Version](https://poser.pugx.org/phpunit/phpunit/v)](//packagist.org/packages/phpunit/phpunit)
-[![Total Downloads](https://poser.pugx.org/phpunit/phpunit/downloads)](//packagist.org/packages/phpunit/phpunit)
-
 ## Why?
 
 Easy to load / access to basic data for everyone.
