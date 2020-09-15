@@ -3,8 +3,13 @@
 Basic unit / warlord / mastery data from [arkheim](https://arkheim.com/) game. 
 
 
-## Why?
+[![Latest Stable Version](https://poser.pugx.org/erkkki/arkheim_data/v)](//packagist.org/packages/erkkki/arkheim_data)
+[![Total Downloads](https://poser.pugx.org/erkkki/arkheim_data/downloads)](//packagist.org/packages/erkkki/arkheim_data)
+[![Monthly Downloads](https://poser.pugx.org/erkkki/arkheim_data/d/monthly)](//packagist.org/packages/erkkki/arkheim_data)
+[![License](https://poser.pugx.org/erkkki/arkheim_data/license)](//packagist.org/packages/erkkki/arkheim_data)
 
+
+## Why?
 Easy to load / access to basic data for everyone.
 Most programming languages can easily convert json to array / object.
 
