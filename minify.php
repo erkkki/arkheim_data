@@ -9,7 +9,7 @@
 
 require_once 'vendor/autoload.php';
 
-use erkhe\Command\MinifyCommand;
+use erkkki\Command\MinifyCommand;
 use Symfony\Component\Console\Application;
 
 $application = new Application();

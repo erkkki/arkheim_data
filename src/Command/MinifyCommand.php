@@ -7,7 +7,7 @@
  */
 
 
-namespace erkhe\Command;
+namespace erkkki\Command;
 
 use Symfony\Component\Console\Command\Command;
 use Symfony\Component\Console\Input\InputInterface;
